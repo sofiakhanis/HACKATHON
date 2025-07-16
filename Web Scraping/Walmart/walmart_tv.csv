@@ -1,0 +1,1001 @@
+product_id,product_name,product_brand,category,price,rating,rating_count,product_link,smart_feature,screen_size_inch
+TV1000,Panasonic 47 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,493.3,4.78,1182,https://www.walmart.com/ip/1000000,Yes,47
+TV1001,Sharp 81 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,507.34,4.51,5012,https://www.walmart.com/ip/1000001,Yes,81
+TV1002,Sanyo 84 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,2469.59,4.09,4953,https://www.walmart.com/ip/1000002,No,84
+TV1003,Philips 63 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1785.01,4.77,9768,https://www.walmart.com/ip/1000003,Yes,63
+TV1004,Vizio 84 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2398.97,3.88,8257,https://www.walmart.com/ip/1000004,No,84
+TV1005,Panasonic 53 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,335.19,4.97,9639,https://www.walmart.com/ip/1000005,Yes,53
+TV1006,Vizio 64 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2122.04,4.26,8189,https://www.walmart.com/ip/1000006,No,64
+TV1007,Vizio 76 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,309.84,4.89,5951,https://www.walmart.com/ip/1000007,No,76
+TV1008,Philips 50 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,2207.28,4.6,5563,https://www.walmart.com/ip/1000008,No,50
+TV1009,Samsung 62 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2064.95,3.95,857,https://www.walmart.com/ip/1000009,Yes,62
+TV1010,Samsung 62 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,706.19,4.57,851,https://www.walmart.com/ip/1000010,Yes,62
+TV1011,LG 66 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,692.32,4.18,8421,https://www.walmart.com/ip/1000011,Yes,66
+TV1012,Samsung 74 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1842.62,4.96,5740,https://www.walmart.com/ip/1000012,No,74
+TV1013,Hisense 58 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,1382.8,5,2803,https://www.walmart.com/ip/1000013,Yes,58
+TV1014,Vizio 82 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1930.77,4.78,3989,https://www.walmart.com/ip/1000014,Yes,82
+TV1015,LG 65 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,359.88,3.96,8669,https://www.walmart.com/ip/1000015,Yes,65
+TV1016,Vizio 75 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1588.92,3.61,2884,https://www.walmart.com/ip/1000016,Yes,75
+TV1017,Hisense 70 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,772.83,4.35,8837,https://www.walmart.com/ip/1000017,No,70
+TV1018,Panasonic 59 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,765.07,4.01,1024,https://www.walmart.com/ip/1000018,Yes,59
+TV1019,Vizio 54 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2238,4.59,5887,https://www.walmart.com/ip/1000019,No,54
+TV1020,TCL 78 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,1079.78,3.82,6266,https://www.walmart.com/ip/1000020,No,78
+TV1021,Vizio 44 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1591.84,4.83,3870,https://www.walmart.com/ip/1000021,Yes,44
+TV1022,TCL 44 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,2421.97,4.27,2077,https://www.walmart.com/ip/1000022,No,44
+TV1023,TCL 33 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,290.4,3.54,185,https://www.walmart.com/ip/1000023,Yes,33
+TV1024,Hisense 69 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,2030.52,3.73,3916,https://www.walmart.com/ip/1000024,Yes,69
+TV1025,Hisense 39 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,730.01,4.88,2076,https://www.walmart.com/ip/1000025,No,39
+TV1026,Hisense 59 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1586.42,4.69,3162,https://www.walmart.com/ip/1000026,No,59
+TV1027,Vizio 50 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1987.44,3.93,1131,https://www.walmart.com/ip/1000027,No,50
+TV1028,Panasonic 80 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,1620.9,3.77,1013,https://www.walmart.com/ip/1000028,Yes,80
+TV1029,TCL 52 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1732.13,3.72,5804,https://www.walmart.com/ip/1000029,Yes,52
+TV1030,Panasonic 64 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1949.08,4.14,8773,https://www.walmart.com/ip/1000030,Yes,64
+TV1031,Sanyo 65 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,1132.38,4.44,3843,https://www.walmart.com/ip/1000031,Yes,65
+TV1032,Sanyo 62 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,788.98,4.51,3688,https://www.walmart.com/ip/1000032,No,62
+TV1033,Hisense 65 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1193.79,4.14,7652,https://www.walmart.com/ip/1000033,Yes,65
+TV1034,Vizio 32 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,1509.11,3.55,832,https://www.walmart.com/ip/1000034,No,32
+TV1035,TCL 64 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,2384.35,3.98,104,https://www.walmart.com/ip/1000035,No,64
+TV1036,Sony 57 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,565.11,3.83,7768,https://www.walmart.com/ip/1000036,No,57
+TV1037,LG 80 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1547.38,3.59,2644,https://www.walmart.com/ip/1000037,No,80
+TV1038,Samsung 41 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,174.62,3.83,288,https://www.walmart.com/ip/1000038,Yes,41
+TV1039,Philips 85 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,2215.84,4.12,4439,https://www.walmart.com/ip/1000039,Yes,85
+TV1040,Panasonic 80 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,368.35,3.78,1998,https://www.walmart.com/ip/1000040,Yes,80
+TV1041,TCL 70 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,544.83,4.77,7402,https://www.walmart.com/ip/1000041,Yes,70
+TV1042,Sanyo 74 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,1684.31,3.67,6187,https://www.walmart.com/ip/1000042,No,74
+TV1043,Samsung 76 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1164.54,4.21,7715,https://www.walmart.com/ip/1000043,No,76
+TV1044,Panasonic 78 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,1724.26,3.61,5166,https://www.walmart.com/ip/1000044,No,78
+TV1045,Hisense 62 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,2480.11,4.26,3747,https://www.walmart.com/ip/1000045,Yes,62
+TV1046,LG 78 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,1922.54,4.41,5416,https://www.walmart.com/ip/1000046,Yes,78
+TV1047,Samsung 40 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2130.38,4.03,4482,https://www.walmart.com/ip/1000047,Yes,40
+TV1048,TCL 63 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,2178.73,4.06,5659,https://www.walmart.com/ip/1000048,No,63
+TV1049,LG 41 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,952.41,3.58,4024,https://www.walmart.com/ip/1000049,No,41
+TV1050,Vizio 67 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1409.59,4.43,9146,https://www.walmart.com/ip/1000050,Yes,67
+TV1051,Hisense 66 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,425.54,3.94,1383,https://www.walmart.com/ip/1000051,Yes,66
+TV1052,Sanyo 75 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,1363.6,3.91,2130,https://www.walmart.com/ip/1000052,Yes,75
+TV1053,Sony 68 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,483.25,4.21,5568,https://www.walmart.com/ip/1000053,Yes,68
+TV1054,LG 61 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,2434.98,4,4744,https://www.walmart.com/ip/1000054,Yes,61
+TV1055,Sanyo 58 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1371.72,3.9,6476,https://www.walmart.com/ip/1000055,No,58
+TV1056,Hisense 45 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1020.8,3.81,116,https://www.walmart.com/ip/1000056,Yes,45
+TV1057,Vizio 84 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1698.56,3.56,2276,https://www.walmart.com/ip/1000057,No,84
+TV1058,Panasonic 48 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1407.98,4.34,6551,https://www.walmart.com/ip/1000058,Yes,48
+TV1059,Sanyo 67 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1696.28,4.79,4461,https://www.walmart.com/ip/1000059,Yes,67
+TV1060,LG 69 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,570.35,4.62,7569,https://www.walmart.com/ip/1000060,No,69
+TV1061,Philips 48 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,205.63,4.14,1637,https://www.walmart.com/ip/1000061,No,48
+TV1062,Sharp 38 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,1346.66,4.48,2781,https://www.walmart.com/ip/1000062,No,38
+TV1063,Philips 78 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,756.42,4.32,5947,https://www.walmart.com/ip/1000063,Yes,78
+TV1064,Philips 56 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,715.28,4.76,277,https://www.walmart.com/ip/1000064,No,56
+TV1065,Panasonic 48 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1516.14,3.5,3446,https://www.walmart.com/ip/1000065,Yes,48
+TV1066,Samsung 68 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,441.11,4.38,1817,https://www.walmart.com/ip/1000066,No,68
+TV1067,Hisense 52 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1895.26,4.29,2496,https://www.walmart.com/ip/1000067,Yes,52
+TV1068,Sharp 66 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2188.96,3.61,7324,https://www.walmart.com/ip/1000068,No,66
+TV1069,LG 50 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,1418.67,4.8,9299,https://www.walmart.com/ip/1000069,No,50
+TV1070,Samsung 75 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1934.17,3.89,5660,https://www.walmart.com/ip/1000070,Yes,75
+TV1071,LG 67 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,388.22,4.91,1850,https://www.walmart.com/ip/1000071,Yes,67
+TV1072,TCL 53 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,1220.77,4.59,9305,https://www.walmart.com/ip/1000072,Yes,53
+TV1073,Sanyo 43 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2033.08,3.74,3395,https://www.walmart.com/ip/1000073,No,43
+TV1074,Sony 34 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,607.44,4.79,1096,https://www.walmart.com/ip/1000074,Yes,34
+TV1075,Sony 43 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,1927.25,4.39,7190,https://www.walmart.com/ip/1000075,No,43
+TV1076,LG 40 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1641.99,4.07,5467,https://www.walmart.com/ip/1000076,Yes,40
+TV1077,Sharp 81 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,1667.58,3.81,464,https://www.walmart.com/ip/1000077,No,81
+TV1078,LG 79 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1176.14,4.49,5194,https://www.walmart.com/ip/1000078,No,79
+TV1079,Philips 71 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,2291.95,3.62,5882,https://www.walmart.com/ip/1000079,No,71
+TV1080,Sharp 77 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,1041.83,4.06,1441,https://www.walmart.com/ip/1000080,Yes,77
+TV1081,Vizio 65 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1285.8,4,6863,https://www.walmart.com/ip/1000081,Yes,65
+TV1082,TCL 61 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1107.16,3.65,9441,https://www.walmart.com/ip/1000082,Yes,61
+TV1083,Vizio 53 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,2264.65,4.36,6335,https://www.walmart.com/ip/1000083,No,53
+TV1084,Sanyo 68 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2344.27,3.73,1108,https://www.walmart.com/ip/1000084,Yes,68
+TV1085,TCL 49 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,2192.81,4.72,3855,https://www.walmart.com/ip/1000085,No,49
+TV1086,Vizio 69 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,1865.91,3.7,8154,https://www.walmart.com/ip/1000086,No,69
+TV1087,Hisense 83 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,551.36,4.73,35,https://www.walmart.com/ip/1000087,No,83
+TV1088,LG 46 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1148.1,3.77,4225,https://www.walmart.com/ip/1000088,No,46
+TV1089,Vizio 70 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,1436.55,4.49,8277,https://www.walmart.com/ip/1000089,No,70
+TV1090,Panasonic 65 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2220.03,4.27,3370,https://www.walmart.com/ip/1000090,No,65
+TV1091,Panasonic 83 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2334.26,4.41,7604,https://www.walmart.com/ip/1000091,Yes,83
+TV1092,Sony 51 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,502.52,3.77,8593,https://www.walmart.com/ip/1000092,Yes,51
+TV1093,Vizio 45 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,491.59,3.9,7716,https://www.walmart.com/ip/1000093,No,45
+TV1094,TCL 40 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,678.58,4.61,4909,https://www.walmart.com/ip/1000094,No,40
+TV1095,Sanyo 63 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,209.18,3.92,301,https://www.walmart.com/ip/1000095,No,63
+TV1096,Sanyo 57 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,1822.23,4.9,8764,https://www.walmart.com/ip/1000096,Yes,57
+TV1097,Sanyo 70 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,820.07,4.22,3287,https://www.walmart.com/ip/1000097,Yes,70
+TV1098,Sanyo 38 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,2441.16,3.92,9862,https://www.walmart.com/ip/1000098,Yes,38
+TV1099,LG 58 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,2451.37,4.2,9238,https://www.walmart.com/ip/1000099,Yes,58
+TV1100,Hisense 45 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,958.22,3.92,8624,https://www.walmart.com/ip/1000100,Yes,45
+TV1101,Hisense 84 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,633.59,4,7067,https://www.walmart.com/ip/1000101,No,84
+TV1102,LG 54 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,759.56,4.11,6398,https://www.walmart.com/ip/1000102,Yes,54
+TV1103,Samsung 38 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,364.27,4.78,5106,https://www.walmart.com/ip/1000103,Yes,38
+TV1104,Sharp 53 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1851.18,4.35,1504,https://www.walmart.com/ip/1000104,No,53
+TV1105,LG 63 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,2137.11,4.54,5970,https://www.walmart.com/ip/1000105,No,63
+TV1106,Samsung 77 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1436.54,4.99,2817,https://www.walmart.com/ip/1000106,No,77
+TV1107,LG 50 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,249.16,4.86,7426,https://www.walmart.com/ip/1000107,No,50
+TV1108,Sharp 71 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1840.03,4.13,3519,https://www.walmart.com/ip/1000108,Yes,71
+TV1109,Philips 61 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,2425.43,4.53,1307,https://www.walmart.com/ip/1000109,Yes,61
+TV1110,Sony 66 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,2221.86,4.13,7578,https://www.walmart.com/ip/1000110,Yes,66
+TV1111,Sony 40 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,779.47,3.69,1150,https://www.walmart.com/ip/1000111,Yes,40
+TV1112,Philips 51 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1757.11,4.73,6940,https://www.walmart.com/ip/1000112,Yes,51
+TV1113,TCL 32 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,1147.99,3.66,9672,https://www.walmart.com/ip/1000113,Yes,32
+TV1114,Philips 75 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1525.37,4.86,1941,https://www.walmart.com/ip/1000114,Yes,75
+TV1115,Sanyo 43 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,1499.65,4.58,762,https://www.walmart.com/ip/1000115,No,43
+TV1116,Philips 71 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1355.97,3.7,4386,https://www.walmart.com/ip/1000116,Yes,71
+TV1117,TCL 38 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,2010.02,3.98,8127,https://www.walmart.com/ip/1000117,Yes,38
+TV1118,Panasonic 48 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,380.36,3.87,2642,https://www.walmart.com/ip/1000118,Yes,48
+TV1119,Hisense 85 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1024.38,3.99,937,https://www.walmart.com/ip/1000119,Yes,85
+TV1120,Panasonic 73 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,647.06,3.7,8654,https://www.walmart.com/ip/1000120,Yes,73
+TV1121,TCL 66 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,156.19,3.65,7286,https://www.walmart.com/ip/1000121,No,66
+TV1122,Hisense 37 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1331.44,3.87,3781,https://www.walmart.com/ip/1000122,Yes,37
+TV1123,Sony 75 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,191.57,3.54,8437,https://www.walmart.com/ip/1000123,No,75
+TV1124,Philips 84 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,290.66,4.25,4906,https://www.walmart.com/ip/1000124,Yes,84
+TV1125,Sony 45 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,179.72,3.82,7731,https://www.walmart.com/ip/1000125,Yes,45
+TV1126,Sharp 85 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1836.98,4.6,5800,https://www.walmart.com/ip/1000126,No,85
+TV1127,Hisense 78 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,551.53,4.23,1011,https://www.walmart.com/ip/1000127,No,78
+TV1128,Hisense 82 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,178.46,4.2,5715,https://www.walmart.com/ip/1000128,No,82
+TV1129,Samsung 59 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,1770.93,3.73,4956,https://www.walmart.com/ip/1000129,No,59
+TV1130,Philips 41 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,2111.95,4.34,9097,https://www.walmart.com/ip/1000130,Yes,41
+TV1131,Sharp 53 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,2449.54,4.98,3922,https://www.walmart.com/ip/1000131,Yes,53
+TV1132,LG 49 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,328.46,3.71,1335,https://www.walmart.com/ip/1000132,Yes,49
+TV1133,Sharp 56 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2474.33,3.67,3408,https://www.walmart.com/ip/1000133,Yes,56
+TV1134,Vizio 46 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1963.47,4.39,1845,https://www.walmart.com/ip/1000134,Yes,46
+TV1135,Samsung 79 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,578.02,3.98,3572,https://www.walmart.com/ip/1000135,Yes,79
+TV1136,Samsung 39 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,2252.14,4.68,4903,https://www.walmart.com/ip/1000136,No,39
+TV1137,LG 62 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,964.16,4,2484,https://www.walmart.com/ip/1000137,Yes,62
+TV1138,TCL 69 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1082.23,3.73,6172,https://www.walmart.com/ip/1000138,Yes,69
+TV1139,Panasonic 46 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1847.37,4.32,1199,https://www.walmart.com/ip/1000139,No,46
+TV1140,Vizio 74 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2155.82,4.9,8766,https://www.walmart.com/ip/1000140,No,74
+TV1141,TCL 52 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1681.4,4.63,7795,https://www.walmart.com/ip/1000141,Yes,52
+TV1142,Sony 71 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,1533.74,3.78,9417,https://www.walmart.com/ip/1000142,No,71
+TV1143,Vizio 73 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,325.79,4.86,8747,https://www.walmart.com/ip/1000143,Yes,73
+TV1144,Samsung 65 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2079.17,3.85,5411,https://www.walmart.com/ip/1000144,Yes,65
+TV1145,TCL 63 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,520.24,4.95,5094,https://www.walmart.com/ip/1000145,Yes,63
+TV1146,LG 52 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,1594.23,4.4,4244,https://www.walmart.com/ip/1000146,Yes,52
+TV1147,Vizio 46 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,1221.8,4.97,2447,https://www.walmart.com/ip/1000147,Yes,46
+TV1148,Sanyo 43 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,1394.22,4.12,8964,https://www.walmart.com/ip/1000148,No,43
+TV1149,Sony 74 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,1838.84,4.49,128,https://www.walmart.com/ip/1000149,Yes,74
+TV1150,Sony 68 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,1775.3,4.17,6606,https://www.walmart.com/ip/1000150,No,68
+TV1151,Sony 65 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,1635.21,3.92,5401,https://www.walmart.com/ip/1000151,No,65
+TV1152,Philips 63 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,2403.89,3.62,330,https://www.walmart.com/ip/1000152,No,63
+TV1153,Sony 51 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,729.09,4.36,4002,https://www.walmart.com/ip/1000153,No,51
+TV1154,Hisense 56 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,2307.41,3.93,8097,https://www.walmart.com/ip/1000154,Yes,56
+TV1155,Samsung 62 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,873.21,3.65,4310,https://www.walmart.com/ip/1000155,No,62
+TV1156,TCL 74 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,996.08,4.14,1386,https://www.walmart.com/ip/1000156,No,74
+TV1157,Sharp 81 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,931.78,3.55,2588,https://www.walmart.com/ip/1000157,Yes,81
+TV1158,Samsung 52 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1783.18,4.21,2158,https://www.walmart.com/ip/1000158,No,52
+TV1159,Sharp 55 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2198.79,4.21,1991,https://www.walmart.com/ip/1000159,No,55
+TV1160,Sony 41 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,165.54,4.46,3003,https://www.walmart.com/ip/1000160,No,41
+TV1161,Vizio 64 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,954.9,4.01,2300,https://www.walmart.com/ip/1000161,Yes,64
+TV1162,Vizio 66 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1077.91,4.39,2756,https://www.walmart.com/ip/1000162,Yes,66
+TV1163,Sanyo 79 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,583.95,4.61,905,https://www.walmart.com/ip/1000163,No,79
+TV1164,Vizio 43 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2246.49,3.59,5759,https://www.walmart.com/ip/1000164,Yes,43
+TV1165,Sharp 43 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,210.8,3.99,49,https://www.walmart.com/ip/1000165,No,43
+TV1166,TCL 33 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,1430.32,4.78,242,https://www.walmart.com/ip/1000166,No,33
+TV1167,Panasonic 52 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1703.1,3.76,7863,https://www.walmart.com/ip/1000167,No,52
+TV1168,Hisense 34 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1399.35,4.79,7489,https://www.walmart.com/ip/1000168,No,34
+TV1169,LG 80 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,2006.73,3.54,7781,https://www.walmart.com/ip/1000169,Yes,80
+TV1170,Hisense 62 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,566.32,3.6,9927,https://www.walmart.com/ip/1000170,No,62
+TV1171,Sharp 49 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,1495.65,4.53,1492,https://www.walmart.com/ip/1000171,Yes,49
+TV1172,Samsung 75 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2082.48,4.87,4364,https://www.walmart.com/ip/1000172,Yes,75
+TV1173,Panasonic 36 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,2248.54,4.03,713,https://www.walmart.com/ip/1000173,Yes,36
+TV1174,Panasonic 51 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1796.99,4.92,8036,https://www.walmart.com/ip/1000174,No,51
+TV1175,Samsung 46 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,2054.63,4.14,657,https://www.walmart.com/ip/1000175,Yes,46
+TV1176,Sony 43 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,1564.12,3.67,9742,https://www.walmart.com/ip/1000176,Yes,43
+TV1177,Sharp 79 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,812.11,4.72,6804,https://www.walmart.com/ip/1000177,Yes,79
+TV1178,Sony 36 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,311.6,3.86,9589,https://www.walmart.com/ip/1000178,Yes,36
+TV1179,Vizio 50 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1711.78,4.81,3063,https://www.walmart.com/ip/1000179,No,50
+TV1180,Sanyo 45 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,454.81,4.09,5564,https://www.walmart.com/ip/1000180,Yes,45
+TV1181,LG 41 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,1607.17,4.52,1219,https://www.walmart.com/ip/1000181,No,41
+TV1182,Sharp 75 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1905.19,4.53,2729,https://www.walmart.com/ip/1000182,No,75
+TV1183,TCL 80 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,243.22,3.55,6218,https://www.walmart.com/ip/1000183,Yes,80
+TV1184,LG 50 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,168.64,4.13,9213,https://www.walmart.com/ip/1000184,No,50
+TV1185,LG 75 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,255.47,4.77,5958,https://www.walmart.com/ip/1000185,Yes,75
+TV1186,Sharp 52 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,725.34,3.87,8145,https://www.walmart.com/ip/1000186,Yes,52
+TV1187,TCL 71 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,1335.69,3.58,1340,https://www.walmart.com/ip/1000187,No,71
+TV1188,TCL 51 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,256.21,3.69,4170,https://www.walmart.com/ip/1000188,No,51
+TV1189,Hisense 55 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,632.31,4.61,666,https://www.walmart.com/ip/1000189,Yes,55
+TV1190,Sanyo 63 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,919.61,3.88,8978,https://www.walmart.com/ip/1000190,Yes,63
+TV1191,LG 35 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,2072.25,3.86,2451,https://www.walmart.com/ip/1000191,Yes,35
+TV1192,Sharp 36 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,454.43,3.97,1717,https://www.walmart.com/ip/1000192,No,36
+TV1193,Sharp 43 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,754.77,4.83,8370,https://www.walmart.com/ip/1000193,Yes,43
+TV1194,Philips 43 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,642.07,3.7,4522,https://www.walmart.com/ip/1000194,Yes,43
+TV1195,Sanyo 43 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,368.34,4.62,1607,https://www.walmart.com/ip/1000195,Yes,43
+TV1196,Panasonic 74 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,448.75,4.9,52,https://www.walmart.com/ip/1000196,No,74
+TV1197,Samsung 53 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,437.27,4.79,4000,https://www.walmart.com/ip/1000197,Yes,53
+TV1198,Vizio 54 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,784.34,3.91,7635,https://www.walmart.com/ip/1000198,No,54
+TV1199,Panasonic 35 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1552.88,4.96,3170,https://www.walmart.com/ip/1000199,No,35
+TV1200,TCL 54 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,2418.11,4.44,1186,https://www.walmart.com/ip/1000200,Yes,54
+TV1201,TCL 73 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,2041.9,3.66,7736,https://www.walmart.com/ip/1000201,No,73
+TV1202,Samsung 36 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,1873.06,4.57,6388,https://www.walmart.com/ip/1000202,No,36
+TV1203,Vizio 76 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,516.06,3.94,8243,https://www.walmart.com/ip/1000203,Yes,76
+TV1204,Hisense 59 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,677.15,4.8,9532,https://www.walmart.com/ip/1000204,Yes,59
+TV1205,Hisense 67 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1735.6,4.84,6857,https://www.walmart.com/ip/1000205,Yes,67
+TV1206,TCL 50 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1190.83,3.99,3119,https://www.walmart.com/ip/1000206,No,50
+TV1207,Sony 47 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,297.43,4.95,9651,https://www.walmart.com/ip/1000207,Yes,47
+TV1208,LG 76 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,2421.83,3.99,8536,https://www.walmart.com/ip/1000208,No,76
+TV1209,Sharp 83 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1902.18,3.68,7729,https://www.walmart.com/ip/1000209,Yes,83
+TV1210,Philips 35 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,332.69,4.03,1261,https://www.walmart.com/ip/1000210,Yes,35
+TV1211,Hisense 44 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1153.38,4.12,5365,https://www.walmart.com/ip/1000211,No,44
+TV1212,Philips 80 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,1452.11,3.98,5924,https://www.walmart.com/ip/1000212,No,80
+TV1213,Vizio 72 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,371.87,4.42,7021,https://www.walmart.com/ip/1000213,No,72
+TV1214,Samsung 51 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,1551.57,3.82,3175,https://www.walmart.com/ip/1000214,Yes,51
+TV1215,Panasonic 69 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,828.12,3.72,2079,https://www.walmart.com/ip/1000215,No,69
+TV1216,Philips 44 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1453.02,4.41,4437,https://www.walmart.com/ip/1000216,Yes,44
+TV1217,Vizio 71 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,616.79,3.81,9234,https://www.walmart.com/ip/1000217,Yes,71
+TV1218,Philips 39 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,231.57,4.81,3418,https://www.walmart.com/ip/1000218,Yes,39
+TV1219,Philips 35 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,888.12,4.14,9629,https://www.walmart.com/ip/1000219,Yes,35
+TV1220,TCL 81 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1148.51,3.54,5130,https://www.walmart.com/ip/1000220,Yes,81
+TV1221,Sony 62 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,248.12,4.88,4633,https://www.walmart.com/ip/1000221,No,62
+TV1222,Philips 45 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,550.06,4.1,39,https://www.walmart.com/ip/1000222,No,45
+TV1223,Sanyo 80 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,1072.52,4.04,3864,https://www.walmart.com/ip/1000223,Yes,80
+TV1224,LG 59 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,2314.18,4.52,9072,https://www.walmart.com/ip/1000224,No,59
+TV1225,Samsung 41 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,771.33,3.96,8956,https://www.walmart.com/ip/1000225,No,41
+TV1226,Sony 83 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,424.4,4.93,9857,https://www.walmart.com/ip/1000226,Yes,83
+TV1227,Sharp 55 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,1820.88,3.67,7749,https://www.walmart.com/ip/1000227,Yes,55
+TV1228,Panasonic 72 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1379.92,4.03,9074,https://www.walmart.com/ip/1000228,Yes,72
+TV1229,TCL 75 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,465.63,3.63,9801,https://www.walmart.com/ip/1000229,Yes,75
+TV1230,Sharp 37 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,2306.46,4.81,792,https://www.walmart.com/ip/1000230,Yes,37
+TV1231,Panasonic 50 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,210.2,4.2,7939,https://www.walmart.com/ip/1000231,No,50
+TV1232,Panasonic 35 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1596.14,4.72,7242,https://www.walmart.com/ip/1000232,Yes,35
+TV1233,LG 32 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1551.64,4.4,9999,https://www.walmart.com/ip/1000233,Yes,32
+TV1234,Vizio 44 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2021.99,4.77,5728,https://www.walmart.com/ip/1000234,Yes,44
+TV1235,Hisense 69 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,488.96,3.63,5156,https://www.walmart.com/ip/1000235,Yes,69
+TV1236,Sharp 45 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1094.34,3.89,9963,https://www.walmart.com/ip/1000236,Yes,45
+TV1237,Philips 82 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1623.81,4.64,6781,https://www.walmart.com/ip/1000237,No,82
+TV1238,TCL 50 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,894.69,4.49,8480,https://www.walmart.com/ip/1000238,No,50
+TV1239,TCL 82 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,1545.76,3.99,7421,https://www.walmart.com/ip/1000239,Yes,82
+TV1240,Sanyo 50 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2253.27,4.57,4836,https://www.walmart.com/ip/1000240,No,50
+TV1241,LG 63 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1569.99,4.27,8048,https://www.walmart.com/ip/1000241,Yes,63
+TV1242,TCL 67 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,2082.37,4.93,425,https://www.walmart.com/ip/1000242,Yes,67
+TV1243,Philips 66 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,320.02,4.2,9644,https://www.walmart.com/ip/1000243,Yes,66
+TV1244,Hisense 51 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1266.83,3.72,1864,https://www.walmart.com/ip/1000244,Yes,51
+TV1245,TCL 59 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,752.02,3.54,4019,https://www.walmart.com/ip/1000245,Yes,59
+TV1246,Sanyo 67 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,955.89,4.9,6060,https://www.walmart.com/ip/1000246,Yes,67
+TV1247,TCL 47 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1650.87,4.76,9661,https://www.walmart.com/ip/1000247,No,47
+TV1248,Sony 66 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,1184.16,3.67,5430,https://www.walmart.com/ip/1000248,No,66
+TV1249,Sanyo 48 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,712.27,4.76,3260,https://www.walmart.com/ip/1000249,No,48
+TV1250,Hisense 32 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1959.37,3.76,2702,https://www.walmart.com/ip/1000250,Yes,32
+TV1251,TCL 42 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1393.64,4.94,608,https://www.walmart.com/ip/1000251,No,42
+TV1252,Sanyo 72 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1164.56,4.08,9668,https://www.walmart.com/ip/1000252,Yes,72
+TV1253,Sharp 78 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,512.49,3.56,9716,https://www.walmart.com/ip/1000253,Yes,78
+TV1254,Samsung 42 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,2018.81,4.81,1194,https://www.walmart.com/ip/1000254,Yes,42
+TV1255,Hisense 35 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1620.33,3.63,2003,https://www.walmart.com/ip/1000255,Yes,35
+TV1256,Vizio 45 Inch Roku Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2192.94,4.33,882,https://www.walmart.com/ip/1000256,Yes,45
+TV1257,Hisense 68 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1855.01,3.6,9136,https://www.walmart.com/ip/1000257,No,68
+TV1258,Sharp 63 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,891.67,4.14,9503,https://www.walmart.com/ip/1000258,Yes,63
+TV1259,TCL 57 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,2429.14,3.74,9401,https://www.walmart.com/ip/1000259,Yes,57
+TV1260,TCL 84 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1028.51,3.52,8241,https://www.walmart.com/ip/1000260,Yes,84
+TV1261,Sharp 79 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,1013.64,3.89,4478,https://www.walmart.com/ip/1000261,Yes,79
+TV1262,Philips 79 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1506.4,4.94,2528,https://www.walmart.com/ip/1000262,No,79
+TV1263,Samsung 51 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1163.19,3.87,8478,https://www.walmart.com/ip/1000263,Yes,51
+TV1264,Hisense 45 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1246.43,3.81,6985,https://www.walmart.com/ip/1000264,No,45
+TV1265,LG 79 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,720.41,3.65,4545,https://www.walmart.com/ip/1000265,No,79
+TV1266,Samsung 33 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1265.93,3.58,5266,https://www.walmart.com/ip/1000266,Yes,33
+TV1267,Sanyo 66 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,518.04,4.57,7406,https://www.walmart.com/ip/1000267,No,66
+TV1268,TCL 54 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,229.57,4.93,7125,https://www.walmart.com/ip/1000268,No,54
+TV1269,Philips 80 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1504.21,4.07,4174,https://www.walmart.com/ip/1000269,Yes,80
+TV1270,LG 67 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,331.07,4.55,6643,https://www.walmart.com/ip/1000270,No,67
+TV1271,Sanyo 76 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,305.7,4.55,5541,https://www.walmart.com/ip/1000271,No,76
+TV1272,Sanyo 74 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,2458.44,3.93,9263,https://www.walmart.com/ip/1000272,Yes,74
+TV1273,LG 41 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,674.55,3.62,8187,https://www.walmart.com/ip/1000273,No,41
+TV1274,Panasonic 46 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,503.53,4.88,8111,https://www.walmart.com/ip/1000274,Yes,46
+TV1275,Sanyo 49 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,736.91,4.25,3665,https://www.walmart.com/ip/1000275,Yes,49
+TV1276,Samsung 34 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2217.07,3.54,2034,https://www.walmart.com/ip/1000276,No,34
+TV1277,Panasonic 69 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,172.67,4.31,3448,https://www.walmart.com/ip/1000277,No,69
+TV1278,Sharp 64 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,2250.44,4.49,6255,https://www.walmart.com/ip/1000278,Yes,64
+TV1279,Hisense 72 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,697.29,3.63,754,https://www.walmart.com/ip/1000279,Yes,72
+TV1280,TCL 48 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,223.71,4.53,9147,https://www.walmart.com/ip/1000280,No,48
+TV1281,Philips 52 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,253.64,3.64,9873,https://www.walmart.com/ip/1000281,Yes,52
+TV1282,TCL 56 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,714.4,3.73,5109,https://www.walmart.com/ip/1000282,No,56
+TV1283,Panasonic 65 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,679.51,3.99,5792,https://www.walmart.com/ip/1000283,No,65
+TV1284,Sanyo 64 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1772.32,4.47,4009,https://www.walmart.com/ip/1000284,No,64
+TV1285,Samsung 60 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,914.65,4.61,1648,https://www.walmart.com/ip/1000285,Yes,60
+TV1286,LG 85 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,1824.49,4.62,2928,https://www.walmart.com/ip/1000286,Yes,85
+TV1287,Samsung 66 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,544.95,3.52,5643,https://www.walmart.com/ip/1000287,No,66
+TV1288,Sanyo 44 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1291.65,4.03,9393,https://www.walmart.com/ip/1000288,No,44
+TV1289,Sony 55 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,557.9,3.86,2511,https://www.walmart.com/ip/1000289,No,55
+TV1290,Panasonic 45 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1089.59,4.62,7487,https://www.walmart.com/ip/1000290,No,45
+TV1291,Sharp 63 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,194.84,4.17,100,https://www.walmart.com/ip/1000291,No,63
+TV1292,TCL 72 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1561.08,4.96,162,https://www.walmart.com/ip/1000292,No,72
+TV1293,Hisense 70 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,2120.44,4.85,446,https://www.walmart.com/ip/1000293,Yes,70
+TV1294,Philips 58 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,1253.9,3.92,3308,https://www.walmart.com/ip/1000294,Yes,58
+TV1295,Sony 51 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,778.41,4.98,97,https://www.walmart.com/ip/1000295,No,51
+TV1296,Panasonic 84 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,346.31,4.31,7379,https://www.walmart.com/ip/1000296,Yes,84
+TV1297,Philips 80 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1242.71,4.64,4924,https://www.walmart.com/ip/1000297,Yes,80
+TV1298,TCL 85 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,2010.89,3.8,5534,https://www.walmart.com/ip/1000298,No,85
+TV1299,Hisense 45 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,155.21,3.9,5642,https://www.walmart.com/ip/1000299,Yes,45
+TV1300,Vizio 78 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,596.35,3.87,3243,https://www.walmart.com/ip/1000300,Yes,78
+TV1301,Samsung 44 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2239.7,3.5,7029,https://www.walmart.com/ip/1000301,No,44
+TV1302,Sony 38 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,871.72,3.84,7898,https://www.walmart.com/ip/1000302,Yes,38
+TV1303,Vizio 78 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2037.05,4.17,8871,https://www.walmart.com/ip/1000303,Yes,78
+TV1304,Samsung 39 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,336.72,4.88,2187,https://www.walmart.com/ip/1000304,Yes,39
+TV1305,LG 81 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1027.61,4.36,4750,https://www.walmart.com/ip/1000305,No,81
+TV1306,Vizio 38 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,2491.6,3.58,8229,https://www.walmart.com/ip/1000306,No,38
+TV1307,Panasonic 78 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1026.93,3.63,2760,https://www.walmart.com/ip/1000307,No,78
+TV1308,Panasonic 82 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,2375.62,3.53,2941,https://www.walmart.com/ip/1000308,Yes,82
+TV1309,Vizio 59 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1728.79,4.12,6862,https://www.walmart.com/ip/1000309,No,59
+TV1310,Panasonic 81 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1964.22,4.4,744,https://www.walmart.com/ip/1000310,No,81
+TV1311,Philips 75 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,436.8,3.87,5899,https://www.walmart.com/ip/1000311,Yes,75
+TV1312,TCL 54 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1153.86,4.86,2044,https://www.walmart.com/ip/1000312,No,54
+TV1313,TCL 47 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1803.35,4,9507,https://www.walmart.com/ip/1000313,Yes,47
+TV1314,TCL 68 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,1401.33,4.82,1287,https://www.walmart.com/ip/1000314,No,68
+TV1315,Vizio 57 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,711.8,4.51,483,https://www.walmart.com/ip/1000315,No,57
+TV1316,Panasonic 46 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,2461.99,4.88,8290,https://www.walmart.com/ip/1000316,No,46
+TV1317,Hisense 75 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,968.12,3.52,3950,https://www.walmart.com/ip/1000317,Yes,75
+TV1318,Sanyo 58 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,1307.49,4,4664,https://www.walmart.com/ip/1000318,No,58
+TV1319,Hisense 77 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,740.42,3.62,6411,https://www.walmart.com/ip/1000319,Yes,77
+TV1320,Philips 77 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1393.6,3.55,4427,https://www.walmart.com/ip/1000320,Yes,77
+TV1321,Hisense 74 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1639.63,3.83,2770,https://www.walmart.com/ip/1000321,Yes,74
+TV1322,LG 45 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,150.87,3.9,7339,https://www.walmart.com/ip/1000322,Yes,45
+TV1323,Sharp 53 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,337.25,4.02,4162,https://www.walmart.com/ip/1000323,Yes,53
+TV1324,TCL 36 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,748.67,4.51,7613,https://www.walmart.com/ip/1000324,No,36
+TV1325,Sanyo 41 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1916.05,4.87,1585,https://www.walmart.com/ip/1000325,Yes,41
+TV1326,Samsung 46 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,2179.46,3.54,9232,https://www.walmart.com/ip/1000326,No,46
+TV1327,Sony 36 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,1576.16,3.53,4329,https://www.walmart.com/ip/1000327,No,36
+TV1328,TCL 61 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1065.89,4.03,9418,https://www.walmart.com/ip/1000328,Yes,61
+TV1329,Hisense 48 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1884.94,3.91,813,https://www.walmart.com/ip/1000329,Yes,48
+TV1330,Hisense 45 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,476.63,4.29,9970,https://www.walmart.com/ip/1000330,Yes,45
+TV1331,Hisense 54 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1132.1,4.33,1644,https://www.walmart.com/ip/1000331,No,54
+TV1332,Sony 53 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,861,3.86,7328,https://www.walmart.com/ip/1000332,Yes,53
+TV1333,Panasonic 77 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1050.52,3.58,7581,https://www.walmart.com/ip/1000333,No,77
+TV1334,Sony 59 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,2432.71,4.96,1426,https://www.walmart.com/ip/1000334,No,59
+TV1335,Samsung 59 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,814.05,4.65,582,https://www.walmart.com/ip/1000335,No,59
+TV1336,LG 54 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,362.06,3.85,588,https://www.walmart.com/ip/1000336,No,54
+TV1337,Panasonic 34 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,1627.17,3.6,5491,https://www.walmart.com/ip/1000337,No,34
+TV1338,Sanyo 66 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1844.38,4.61,2226,https://www.walmart.com/ip/1000338,No,66
+TV1339,Samsung 80 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,2206.52,4.12,3526,https://www.walmart.com/ip/1000339,No,80
+TV1340,Samsung 47 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,2017.97,3.95,3140,https://www.walmart.com/ip/1000340,Yes,47
+TV1341,Sanyo 60 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,318.83,4.69,3768,https://www.walmart.com/ip/1000341,Yes,60
+TV1342,LG 68 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1340.28,4.28,5203,https://www.walmart.com/ip/1000342,Yes,68
+TV1343,Philips 65 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,1424.02,4.25,8299,https://www.walmart.com/ip/1000343,Yes,65
+TV1344,Sharp 67 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,426.18,4.78,1962,https://www.walmart.com/ip/1000344,Yes,67
+TV1345,Hisense 65 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,325.23,3.91,3392,https://www.walmart.com/ip/1000345,Yes,65
+TV1346,TCL 75 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,653.8,4.5,1560,https://www.walmart.com/ip/1000346,No,75
+TV1347,Sony 48 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,1762.04,4.85,8679,https://www.walmart.com/ip/1000347,Yes,48
+TV1348,Hisense 82 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,406.08,4.18,3744,https://www.walmart.com/ip/1000348,No,82
+TV1349,Hisense 67 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,563.68,4.06,8255,https://www.walmart.com/ip/1000349,No,67
+TV1350,Sanyo 78 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1848.43,3.97,7767,https://www.walmart.com/ip/1000350,Yes,78
+TV1351,Sharp 73 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,490.1,4.12,1953,https://www.walmart.com/ip/1000351,Yes,73
+TV1352,Hisense 48 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,445.26,3.9,4780,https://www.walmart.com/ip/1000352,Yes,48
+TV1353,Sony 45 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,2342.92,4.04,8000,https://www.walmart.com/ip/1000353,Yes,45
+TV1354,Hisense 37 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1851.6,4.5,9233,https://www.walmart.com/ip/1000354,Yes,37
+TV1355,Philips 79 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,2001.04,3.89,407,https://www.walmart.com/ip/1000355,Yes,79
+TV1356,Sanyo 59 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,551.91,4.19,6091,https://www.walmart.com/ip/1000356,Yes,59
+TV1357,Sharp 75 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,1231.76,4.6,2499,https://www.walmart.com/ip/1000357,No,75
+TV1358,Sony 63 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,1916.42,4.2,5933,https://www.walmart.com/ip/1000358,No,63
+TV1359,Philips 37 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,2402.08,4.7,3205,https://www.walmart.com/ip/1000359,Yes,37
+TV1360,LG 43 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,1400.34,3.96,1202,https://www.walmart.com/ip/1000360,Yes,43
+TV1361,Sharp 76 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,1497.19,4.59,7854,https://www.walmart.com/ip/1000361,Yes,76
+TV1362,Sanyo 79 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,528.11,4.27,8266,https://www.walmart.com/ip/1000362,Yes,79
+TV1363,Hisense 76 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1441.1,4.37,7920,https://www.walmart.com/ip/1000363,Yes,76
+TV1364,Philips 41 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,736.16,4.29,7919,https://www.walmart.com/ip/1000364,Yes,41
+TV1365,Vizio 82 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,2184.8,4.76,4918,https://www.walmart.com/ip/1000365,No,82
+TV1366,Vizio 73 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,631.41,4.15,4513,https://www.walmart.com/ip/1000366,No,73
+TV1367,LG 71 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,1148.46,4.19,3529,https://www.walmart.com/ip/1000367,Yes,71
+TV1368,Hisense 59 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,678.08,3.95,2638,https://www.walmart.com/ip/1000368,No,59
+TV1369,LG 68 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,1481.49,4.25,9104,https://www.walmart.com/ip/1000369,No,68
+TV1370,Samsung 42 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1421.81,4.26,3363,https://www.walmart.com/ip/1000370,Yes,42
+TV1371,Panasonic 75 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1134.12,3.67,4578,https://www.walmart.com/ip/1000371,Yes,75
+TV1372,Hisense 81 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,2322.88,3.8,3898,https://www.walmart.com/ip/1000372,Yes,81
+TV1373,Vizio 59 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2118.03,3.77,643,https://www.walmart.com/ip/1000373,No,59
+TV1374,Panasonic 73 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2139.11,4.58,1812,https://www.walmart.com/ip/1000374,No,73
+TV1375,Sanyo 48 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,1986.75,4.27,9475,https://www.walmart.com/ip/1000375,No,48
+TV1376,Samsung 55 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2318.92,4.32,1413,https://www.walmart.com/ip/1000376,Yes,55
+TV1377,Philips 75 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,2021.75,4.85,1998,https://www.walmart.com/ip/1000377,No,75
+TV1378,Samsung 80 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2146.04,3.86,7756,https://www.walmart.com/ip/1000378,Yes,80
+TV1379,TCL 65 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,661.96,4.84,3526,https://www.walmart.com/ip/1000379,No,65
+TV1380,Vizio 73 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2485.39,3.74,2941,https://www.walmart.com/ip/1000380,Yes,73
+TV1381,Philips 42 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,913.51,4.04,7734,https://www.walmart.com/ip/1000381,No,42
+TV1382,TCL 36 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1387.35,3.87,8416,https://www.walmart.com/ip/1000382,Yes,36
+TV1383,Hisense 61 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,707.69,3.67,6450,https://www.walmart.com/ip/1000383,Yes,61
+TV1384,Panasonic 81 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,669.33,4.91,7509,https://www.walmart.com/ip/1000384,Yes,81
+TV1385,Samsung 62 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,343.43,4.07,1845,https://www.walmart.com/ip/1000385,No,62
+TV1386,Sanyo 35 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2041.49,4.61,9193,https://www.walmart.com/ip/1000386,No,35
+TV1387,Panasonic 38 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,1158.8,4.89,800,https://www.walmart.com/ip/1000387,No,38
+TV1388,TCL 60 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,738.77,4.46,2985,https://www.walmart.com/ip/1000388,Yes,60
+TV1389,Samsung 59 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,466.64,4.28,1588,https://www.walmart.com/ip/1000389,Yes,59
+TV1390,Hisense 51 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,692.05,4.71,8045,https://www.walmart.com/ip/1000390,Yes,51
+TV1391,Philips 37 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,624.52,3.67,1919,https://www.walmart.com/ip/1000391,Yes,37
+TV1392,Hisense 51 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,2491.92,4.41,371,https://www.walmart.com/ip/1000392,No,51
+TV1393,Sony 32 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,2202.15,4.87,2637,https://www.walmart.com/ip/1000393,Yes,32
+TV1394,LG 63 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,308.7,3.9,8944,https://www.walmart.com/ip/1000394,No,63
+TV1395,Panasonic 38 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1984.34,3.67,5441,https://www.walmart.com/ip/1000395,No,38
+TV1396,LG 80 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1306.61,4.75,6600,https://www.walmart.com/ip/1000396,Yes,80
+TV1397,Sharp 76 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1444.82,4.82,2198,https://www.walmart.com/ip/1000397,No,76
+TV1398,Sharp 51 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2127.25,3.75,6419,https://www.walmart.com/ip/1000398,Yes,51
+TV1399,Sanyo 35 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,2341.03,4.2,7837,https://www.walmart.com/ip/1000399,Yes,35
+TV1400,Vizio 48 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,841.1,3.54,1012,https://www.walmart.com/ip/1000400,Yes,48
+TV1401,Sharp 38 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,485.55,4.54,652,https://www.walmart.com/ip/1000401,No,38
+TV1402,Samsung 55 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1465.57,4.17,8312,https://www.walmart.com/ip/1000402,No,55
+TV1403,Sharp 40 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,920.55,3.99,5255,https://www.walmart.com/ip/1000403,No,40
+TV1404,Sanyo 66 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,960.12,4.78,1208,https://www.walmart.com/ip/1000404,Yes,66
+TV1405,Panasonic 75 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,2231.66,4.25,5637,https://www.walmart.com/ip/1000405,Yes,75
+TV1406,Philips 78 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,189.95,4.91,8440,https://www.walmart.com/ip/1000406,No,78
+TV1407,Hisense 41 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,1730.81,4.01,5532,https://www.walmart.com/ip/1000407,No,41
+TV1408,LG 84 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,406.84,4.51,1401,https://www.walmart.com/ip/1000408,No,84
+TV1409,LG 69 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,572.02,3.91,1628,https://www.walmart.com/ip/1000409,No,69
+TV1410,Panasonic 80 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,922.62,3.53,9404,https://www.walmart.com/ip/1000410,Yes,80
+TV1411,Vizio 83 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,2033.51,4.73,170,https://www.walmart.com/ip/1000411,No,83
+TV1412,Vizio 63 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,1364.7,4.27,1040,https://www.walmart.com/ip/1000412,No,63
+TV1413,Samsung 49 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1387.97,3.98,6863,https://www.walmart.com/ip/1000413,Yes,49
+TV1414,Sharp 43 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,1645.62,3.55,3487,https://www.walmart.com/ip/1000414,No,43
+TV1415,Sharp 52 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,2091.77,4.15,7167,https://www.walmart.com/ip/1000415,Yes,52
+TV1416,Philips 77 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,1528.63,4.15,5866,https://www.walmart.com/ip/1000416,No,77
+TV1417,Hisense 72 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,2137.91,4.47,5384,https://www.walmart.com/ip/1000417,Yes,72
+TV1418,TCL 66 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,651.9,4.07,8018,https://www.walmart.com/ip/1000418,No,66
+TV1419,Sharp 55 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2228.67,4.57,1437,https://www.walmart.com/ip/1000419,No,55
+TV1420,LG 34 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1502.29,3.98,9365,https://www.walmart.com/ip/1000420,No,34
+TV1421,Panasonic 38 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1771.82,4.57,7737,https://www.walmart.com/ip/1000421,Yes,38
+TV1422,LG 71 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,1156.06,4.42,443,https://www.walmart.com/ip/1000422,No,71
+TV1423,Vizio 71 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,2490.8,4.92,2601,https://www.walmart.com/ip/1000423,Yes,71
+TV1424,Sanyo 70 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2187.86,4.74,900,https://www.walmart.com/ip/1000424,Yes,70
+TV1425,Panasonic 53 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1666.72,4.28,8849,https://www.walmart.com/ip/1000425,No,53
+TV1426,Panasonic 51 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2013.64,4.94,2636,https://www.walmart.com/ip/1000426,Yes,51
+TV1427,Sanyo 55 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1775.03,3.82,9077,https://www.walmart.com/ip/1000427,Yes,55
+TV1428,LG 75 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,2109.92,4.76,5407,https://www.walmart.com/ip/1000428,No,75
+TV1429,Panasonic 83 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1707.1,4.38,3584,https://www.walmart.com/ip/1000429,No,83
+TV1430,LG 77 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,2421.91,4.19,116,https://www.walmart.com/ip/1000430,No,77
+TV1431,Sony 62 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,1926.28,4.46,5408,https://www.walmart.com/ip/1000431,Yes,62
+TV1432,Sharp 35 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1969.23,4.46,3095,https://www.walmart.com/ip/1000432,Yes,35
+TV1433,Sony 57 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,1195.75,4.2,2127,https://www.walmart.com/ip/1000433,No,57
+TV1434,Vizio 75 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,1611.61,3.63,5914,https://www.walmart.com/ip/1000434,Yes,75
+TV1435,Sony 69 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,930.64,4.14,7134,https://www.walmart.com/ip/1000435,Yes,69
+TV1436,Sharp 51 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1851.52,3.67,983,https://www.walmart.com/ip/1000436,No,51
+TV1437,Sharp 38 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1473.83,4.27,9120,https://www.walmart.com/ip/1000437,Yes,38
+TV1438,Hisense 36 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,2114.42,3.6,5746,https://www.walmart.com/ip/1000438,No,36
+TV1439,Philips 46 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,2328.25,4.58,8340,https://www.walmart.com/ip/1000439,No,46
+TV1440,Philips 74 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,1989.36,4.02,571,https://www.walmart.com/ip/1000440,No,74
+TV1441,Sony 47 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,2416.52,3.68,5581,https://www.walmart.com/ip/1000441,Yes,47
+TV1442,Panasonic 85 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1912.08,4.94,3249,https://www.walmart.com/ip/1000442,No,85
+TV1443,Sanyo 75 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,977.31,3.88,6850,https://www.walmart.com/ip/1000443,No,75
+TV1444,Panasonic 83 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2203.65,3.82,2701,https://www.walmart.com/ip/1000444,Yes,83
+TV1445,Sharp 65 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,491.35,3.91,3660,https://www.walmart.com/ip/1000445,No,65
+TV1446,LG 67 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,2348.37,4.62,1503,https://www.walmart.com/ip/1000446,No,67
+TV1447,Sanyo 65 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,757.28,4.47,8009,https://www.walmart.com/ip/1000447,No,65
+TV1448,Sony 36 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,2465.29,3.83,7789,https://www.walmart.com/ip/1000448,Yes,36
+TV1449,Sanyo 82 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,230.2,4.65,2572,https://www.walmart.com/ip/1000449,No,82
+TV1450,Sony 58 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,2233.31,4.37,2794,https://www.walmart.com/ip/1000450,Yes,58
+TV1451,Hisense 45 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,480.87,4.81,1912,https://www.walmart.com/ip/1000451,No,45
+TV1452,Samsung 49 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1556.39,4.49,4498,https://www.walmart.com/ip/1000452,Yes,49
+TV1453,LG 72 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,717.84,4.72,5550,https://www.walmart.com/ip/1000453,Yes,72
+TV1454,Samsung 75 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,622.88,4.79,2122,https://www.walmart.com/ip/1000454,No,75
+TV1455,Samsung 47 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,189.14,4.43,5934,https://www.walmart.com/ip/1000455,No,47
+TV1456,Hisense 70 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,438.15,4.61,1999,https://www.walmart.com/ip/1000456,Yes,70
+TV1457,Sanyo 75 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,2258.88,4.74,7209,https://www.walmart.com/ip/1000457,No,75
+TV1458,Sanyo 40 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1243.61,4.97,3896,https://www.walmart.com/ip/1000458,No,40
+TV1459,TCL 81 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,2252.82,4.67,3189,https://www.walmart.com/ip/1000459,Yes,81
+TV1460,Samsung 64 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2432.67,4.22,7286,https://www.walmart.com/ip/1000460,No,64
+TV1461,Vizio 85 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,533.47,4.67,3285,https://www.walmart.com/ip/1000461,No,85
+TV1462,Hisense 85 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,729.43,4.56,521,https://www.walmart.com/ip/1000462,Yes,85
+TV1463,Samsung 81 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,660.88,4.28,6748,https://www.walmart.com/ip/1000463,No,81
+TV1464,Sharp 64 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,198.3,4.53,7414,https://www.walmart.com/ip/1000464,Yes,64
+TV1465,Panasonic 42 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1378.5,3.97,7352,https://www.walmart.com/ip/1000465,No,42
+TV1466,Hisense 32 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,2015.63,4.46,8528,https://www.walmart.com/ip/1000466,No,32
+TV1467,Philips 84 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,244.85,3.8,4520,https://www.walmart.com/ip/1000467,Yes,84
+TV1468,Sony 74 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,483.83,4.96,3553,https://www.walmart.com/ip/1000468,No,74
+TV1469,Sanyo 43 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2274.04,4.31,8605,https://www.walmart.com/ip/1000469,No,43
+TV1470,Philips 43 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,1193.08,3.7,1794,https://www.walmart.com/ip/1000470,No,43
+TV1471,Samsung 47 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1077.34,4.81,9347,https://www.walmart.com/ip/1000471,No,47
+TV1472,Hisense 83 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1109.18,3.86,8629,https://www.walmart.com/ip/1000472,No,83
+TV1473,Hisense 65 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1488.07,4.78,3459,https://www.walmart.com/ip/1000473,No,65
+TV1474,Philips 70 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,974.67,4.49,8032,https://www.walmart.com/ip/1000474,Yes,70
+TV1475,Sanyo 69 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1543.92,4.79,6023,https://www.walmart.com/ip/1000475,Yes,69
+TV1476,Samsung 36 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2474.3,4.39,3138,https://www.walmart.com/ip/1000476,Yes,36
+TV1477,Philips 78 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,298.27,3.8,5352,https://www.walmart.com/ip/1000477,Yes,78
+TV1478,Philips 75 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,1845.27,4.42,6221,https://www.walmart.com/ip/1000478,No,75
+TV1479,Samsung 83 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,840.63,3.88,5777,https://www.walmart.com/ip/1000479,No,83
+TV1480,Panasonic 33 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1542.29,4.52,3103,https://www.walmart.com/ip/1000480,No,33
+TV1481,Philips 60 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,902.67,3.76,7745,https://www.walmart.com/ip/1000481,Yes,60
+TV1482,LG 50 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,1507.32,4.94,576,https://www.walmart.com/ip/1000482,No,50
+TV1483,Panasonic 74 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,794,4.18,9613,https://www.walmart.com/ip/1000483,Yes,74
+TV1484,Samsung 84 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1098.18,4.88,278,https://www.walmart.com/ip/1000484,No,84
+TV1485,Sony 40 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,924.18,4.63,6864,https://www.walmart.com/ip/1000485,No,40
+TV1486,LG 84 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1775.7,4.49,1851,https://www.walmart.com/ip/1000486,Yes,84
+TV1487,Sony 39 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,1624.07,4.33,2981,https://www.walmart.com/ip/1000487,Yes,39
+TV1488,LG 83 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,383.56,4.45,2808,https://www.walmart.com/ip/1000488,No,83
+TV1489,Hisense 71 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1178.01,4.68,331,https://www.walmart.com/ip/1000489,No,71
+TV1490,LG 52 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1879.22,4.81,4009,https://www.walmart.com/ip/1000490,Yes,52
+TV1491,Sony 82 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,500.38,3.55,4323,https://www.walmart.com/ip/1000491,Yes,82
+TV1492,Panasonic 71 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2248.8,4.76,5053,https://www.walmart.com/ip/1000492,No,71
+TV1493,Philips 51 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1324.72,4.17,6666,https://www.walmart.com/ip/1000493,Yes,51
+TV1494,Hisense 47 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1026.9,3.82,113,https://www.walmart.com/ip/1000494,Yes,47
+TV1495,Sanyo 73 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1110.1,4.93,5089,https://www.walmart.com/ip/1000495,Yes,73
+TV1496,Panasonic 38 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,719.96,3.88,1944,https://www.walmart.com/ip/1000496,Yes,38
+TV1497,Hisense 82 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1650.92,3.98,244,https://www.walmart.com/ip/1000497,Yes,82
+TV1498,Samsung 60 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1616.26,4.27,3204,https://www.walmart.com/ip/1000498,No,60
+TV1499,Hisense 55 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,351.36,4.73,804,https://www.walmart.com/ip/1000499,No,55
+TV1500,Samsung 57 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,551.38,4.92,5589,https://www.walmart.com/ip/1000500,Yes,57
+TV1501,Sony 45 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,2464.15,3.77,3607,https://www.walmart.com/ip/1000501,No,45
+TV1502,Sony 38 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,2307.85,4.96,648,https://www.walmart.com/ip/1000502,No,38
+TV1503,TCL 47 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,2405.55,4.97,8858,https://www.walmart.com/ip/1000503,No,47
+TV1504,Panasonic 69 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,2257.24,3.54,9477,https://www.walmart.com/ip/1000504,No,69
+TV1505,Sony 42 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,1197.24,4.77,6419,https://www.walmart.com/ip/1000505,No,42
+TV1506,Philips 62 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,1990.43,4.6,4354,https://www.walmart.com/ip/1000506,Yes,62
+TV1507,Sanyo 32 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2214.87,3.94,4203,https://www.walmart.com/ip/1000507,No,32
+TV1508,Hisense 42 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,463.21,3.92,7966,https://www.walmart.com/ip/1000508,Yes,42
+TV1509,LG 77 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,2009.4,4.76,8269,https://www.walmart.com/ip/1000509,No,77
+TV1510,Sony 36 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,909.16,4.18,5099,https://www.walmart.com/ip/1000510,Yes,36
+TV1511,Samsung 85 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1582.81,4.57,4369,https://www.walmart.com/ip/1000511,No,85
+TV1512,Sharp 35 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,434.67,3.63,3688,https://www.walmart.com/ip/1000512,Yes,35
+TV1513,Philips 41 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1511.42,4.78,4643,https://www.walmart.com/ip/1000513,Yes,41
+TV1514,LG 44 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,1577.33,4.82,6006,https://www.walmart.com/ip/1000514,Yes,44
+TV1515,Sanyo 62 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1410.53,4.69,469,https://www.walmart.com/ip/1000515,Yes,62
+TV1516,Sony 73 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,1692.16,4.74,9571,https://www.walmart.com/ip/1000516,No,73
+TV1517,Sanyo 54 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1067.17,4.45,7574,https://www.walmart.com/ip/1000517,No,54
+TV1518,Samsung 74 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1826.28,4.22,5869,https://www.walmart.com/ip/1000518,No,74
+TV1519,Vizio 37 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,2125.38,4.75,5302,https://www.walmart.com/ip/1000519,Yes,37
+TV1520,Hisense 70 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,923.76,4.4,4316,https://www.walmart.com/ip/1000520,No,70
+TV1521,LG 74 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,926.43,4.35,4179,https://www.walmart.com/ip/1000521,No,74
+TV1522,Samsung 75 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1566.81,3.55,7097,https://www.walmart.com/ip/1000522,No,75
+TV1523,TCL 58 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,1509.09,3.6,6016,https://www.walmart.com/ip/1000523,No,58
+TV1524,Hisense 77 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,2308.29,4.27,8796,https://www.walmart.com/ip/1000524,No,77
+TV1525,Hisense 80 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,1326.22,3.97,9411,https://www.walmart.com/ip/1000525,No,80
+TV1526,Sharp 63 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1792.24,3.51,3655,https://www.walmart.com/ip/1000526,No,63
+TV1527,Philips 76 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,946.68,3.69,7033,https://www.walmart.com/ip/1000527,Yes,76
+TV1528,Sharp 51 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,528.71,3.95,193,https://www.walmart.com/ip/1000528,No,51
+TV1529,Hisense 37 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,202.19,4.97,8545,https://www.walmart.com/ip/1000529,Yes,37
+TV1530,Samsung 51 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,177.71,4.37,7411,https://www.walmart.com/ip/1000530,Yes,51
+TV1531,Vizio 46 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,438.94,4.38,6698,https://www.walmart.com/ip/1000531,No,46
+TV1532,Panasonic 84 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,654.25,4.62,6871,https://www.walmart.com/ip/1000532,Yes,84
+TV1533,Philips 75 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,828.9,4.45,3421,https://www.walmart.com/ip/1000533,Yes,75
+TV1534,Sanyo 52 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,232.56,4.36,6095,https://www.walmart.com/ip/1000534,No,52
+TV1535,LG 51 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,593.56,4.79,9927,https://www.walmart.com/ip/1000535,No,51
+TV1536,Panasonic 51 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1127.86,3.72,7899,https://www.walmart.com/ip/1000536,Yes,51
+TV1537,Samsung 78 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1507.38,4.76,6698,https://www.walmart.com/ip/1000537,No,78
+TV1538,Sanyo 79 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,792.23,3.99,5114,https://www.walmart.com/ip/1000538,No,79
+TV1539,TCL 56 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1541.8,3.94,5485,https://www.walmart.com/ip/1000539,No,56
+TV1540,TCL 52 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,627.26,4.28,8506,https://www.walmart.com/ip/1000540,No,52
+TV1541,Vizio 67 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,669.92,3.83,1902,https://www.walmart.com/ip/1000541,Yes,67
+TV1542,Sony 72 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,1112.45,4.49,7266,https://www.walmart.com/ip/1000542,Yes,72
+TV1543,TCL 53 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,1761.25,3.84,1376,https://www.walmart.com/ip/1000543,No,53
+TV1544,Hisense 68 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1948.87,4.47,698,https://www.walmart.com/ip/1000544,Yes,68
+TV1545,Philips 38 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1068.74,4.87,2454,https://www.walmart.com/ip/1000545,Yes,38
+TV1546,Panasonic 83 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,172.77,3.56,1233,https://www.walmart.com/ip/1000546,Yes,83
+TV1547,Hisense 55 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,352.38,4.46,1271,https://www.walmart.com/ip/1000547,Yes,55
+TV1548,Hisense 59 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,702.45,4.08,9782,https://www.walmart.com/ip/1000548,No,59
+TV1549,Panasonic 63 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,595.49,4.47,8839,https://www.walmart.com/ip/1000549,No,63
+TV1550,LG 35 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,1221.26,3.53,3081,https://www.walmart.com/ip/1000550,Yes,35
+TV1551,Hisense 39 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,171.92,3.89,5585,https://www.walmart.com/ip/1000551,No,39
+TV1552,Sanyo 64 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1322.25,4.31,8025,https://www.walmart.com/ip/1000552,Yes,64
+TV1553,Sanyo 83 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,2361.12,3.63,1362,https://www.walmart.com/ip/1000553,Yes,83
+TV1554,Hisense 65 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,777.43,4.2,4111,https://www.walmart.com/ip/1000554,No,65
+TV1555,Panasonic 58 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,985.35,4.56,4884,https://www.walmart.com/ip/1000555,Yes,58
+TV1556,Philips 70 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1684.76,3.5,9384,https://www.walmart.com/ip/1000556,No,70
+TV1557,Hisense 51 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,2414.6,3.87,9087,https://www.walmart.com/ip/1000557,No,51
+TV1558,LG 42 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,538.31,4.2,6818,https://www.walmart.com/ip/1000558,Yes,42
+TV1559,Hisense 82 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,434.2,4.82,8787,https://www.walmart.com/ip/1000559,No,82
+TV1560,Samsung 83 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1827.57,3.95,9376,https://www.walmart.com/ip/1000560,No,83
+TV1561,Sanyo 33 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2203.22,4.64,7563,https://www.walmart.com/ip/1000561,No,33
+TV1562,Vizio 85 Inch Roku Smart TV,Vizio,Electronics > TV & Video > Smart TVs,789.03,3.91,6850,https://www.walmart.com/ip/1000562,Yes,85
+TV1563,Vizio 35 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,905.75,4.97,4044,https://www.walmart.com/ip/1000563,No,35
+TV1564,LG 49 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1105.69,4.94,5069,https://www.walmart.com/ip/1000564,Yes,49
+TV1565,Vizio 38 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,2460.12,3.98,1809,https://www.walmart.com/ip/1000565,No,38
+TV1566,Sharp 49 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,730.44,4.07,3665,https://www.walmart.com/ip/1000566,Yes,49
+TV1567,LG 66 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,511.92,4.41,404,https://www.walmart.com/ip/1000567,Yes,66
+TV1568,LG 65 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1012.57,4.23,2991,https://www.walmart.com/ip/1000568,Yes,65
+TV1569,Hisense 85 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,521.07,4.66,727,https://www.walmart.com/ip/1000569,Yes,85
+TV1570,TCL 82 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,1562.24,3.65,1074,https://www.walmart.com/ip/1000570,Yes,82
+TV1571,LG 85 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,1532.46,3.75,3788,https://www.walmart.com/ip/1000571,No,85
+TV1572,Sony 34 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,1648.38,3.55,7296,https://www.walmart.com/ip/1000572,No,34
+TV1573,Samsung 34 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,206.19,4.45,3247,https://www.walmart.com/ip/1000573,No,34
+TV1574,Samsung 41 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1760.94,3.54,5545,https://www.walmart.com/ip/1000574,Yes,41
+TV1575,Philips 85 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,2239.93,4.84,9226,https://www.walmart.com/ip/1000575,No,85
+TV1576,Sony 75 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,226.12,4.17,6799,https://www.walmart.com/ip/1000576,No,75
+TV1577,TCL 80 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1727.86,3.82,5532,https://www.walmart.com/ip/1000577,Yes,80
+TV1578,LG 51 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,599.1,4.76,8406,https://www.walmart.com/ip/1000578,Yes,51
+TV1579,Vizio 36 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,157.15,4.43,9186,https://www.walmart.com/ip/1000579,Yes,36
+TV1580,Sharp 75 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,2476.18,4.21,9717,https://www.walmart.com/ip/1000580,Yes,75
+TV1581,Philips 45 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,2333.18,4.77,4067,https://www.walmart.com/ip/1000581,Yes,45
+TV1582,LG 74 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,170.74,4.93,7567,https://www.walmart.com/ip/1000582,No,74
+TV1583,Sharp 67 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,558.58,4,9183,https://www.walmart.com/ip/1000583,No,67
+TV1584,Hisense 41 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,903.82,3.91,5252,https://www.walmart.com/ip/1000584,Yes,41
+TV1585,Sharp 85 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,2479.77,4.05,1897,https://www.walmart.com/ip/1000585,Yes,85
+TV1586,Samsung 74 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,931.76,4.59,305,https://www.walmart.com/ip/1000586,Yes,74
+TV1587,LG 70 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,1411.17,4.77,5935,https://www.walmart.com/ip/1000587,No,70
+TV1588,Sony 72 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,1295.39,3.71,4304,https://www.walmart.com/ip/1000588,No,72
+TV1589,Vizio 81 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,1931.16,3.84,9138,https://www.walmart.com/ip/1000589,Yes,81
+TV1590,Sanyo 39 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1461.23,4.51,65,https://www.walmart.com/ip/1000590,No,39
+TV1591,TCL 66 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,325.32,3.91,1758,https://www.walmart.com/ip/1000591,No,66
+TV1592,Panasonic 59 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,281.65,4.85,2008,https://www.walmart.com/ip/1000592,No,59
+TV1593,Samsung 41 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1949.52,3.84,9694,https://www.walmart.com/ip/1000593,No,41
+TV1594,TCL 57 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,329.61,4.03,9566,https://www.walmart.com/ip/1000594,No,57
+TV1595,Panasonic 81 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1427.49,4.02,2440,https://www.walmart.com/ip/1000595,Yes,81
+TV1596,Sharp 83 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,978.31,4.47,645,https://www.walmart.com/ip/1000596,Yes,83
+TV1597,Panasonic 65 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,1530.02,3.82,2158,https://www.walmart.com/ip/1000597,No,65
+TV1598,Sony 83 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,2396.56,4.12,3152,https://www.walmart.com/ip/1000598,No,83
+TV1599,Samsung 39 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,481.23,3.86,5475,https://www.walmart.com/ip/1000599,Yes,39
+TV1600,Panasonic 39 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,315.35,3.82,8390,https://www.walmart.com/ip/1000600,Yes,39
+TV1601,Sharp 32 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2345.56,4.3,5852,https://www.walmart.com/ip/1000601,No,32
+TV1602,Sanyo 67 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,1955.28,3.99,7992,https://www.walmart.com/ip/1000602,No,67
+TV1603,TCL 64 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,1466,4.56,7258,https://www.walmart.com/ip/1000603,No,64
+TV1604,Sony 68 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,1260.12,3.52,220,https://www.walmart.com/ip/1000604,No,68
+TV1605,Hisense 39 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,2191.77,4.71,7641,https://www.walmart.com/ip/1000605,No,39
+TV1606,Sanyo 33 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,2266.93,4.5,5948,https://www.walmart.com/ip/1000606,Yes,33
+TV1607,Sony 46 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,1885.93,4.47,3159,https://www.walmart.com/ip/1000607,Yes,46
+TV1608,Sanyo 47 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2317.53,4.1,4477,https://www.walmart.com/ip/1000608,Yes,47
+TV1609,Vizio 70 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1769.71,3.78,6158,https://www.walmart.com/ip/1000609,No,70
+TV1610,LG 43 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,396.59,4.69,1377,https://www.walmart.com/ip/1000610,Yes,43
+TV1611,Sanyo 49 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1182,3.56,7210,https://www.walmart.com/ip/1000611,Yes,49
+TV1612,Vizio 57 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,1304.27,4.1,2001,https://www.walmart.com/ip/1000612,No,57
+TV1613,Hisense 44 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1058.71,3.79,3871,https://www.walmart.com/ip/1000613,No,44
+TV1614,Panasonic 71 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1073.07,4.77,3460,https://www.walmart.com/ip/1000614,No,71
+TV1615,Samsung 41 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1312.27,4.68,2029,https://www.walmart.com/ip/1000615,Yes,41
+TV1616,Philips 64 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1835.11,3.56,6248,https://www.walmart.com/ip/1000616,Yes,64
+TV1617,Sharp 84 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,986.07,3.87,2032,https://www.walmart.com/ip/1000617,No,84
+TV1618,TCL 77 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,2487.54,4.03,1385,https://www.walmart.com/ip/1000618,Yes,77
+TV1619,Panasonic 68 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1842,4.56,3699,https://www.walmart.com/ip/1000619,Yes,68
+TV1620,Sanyo 85 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1811.43,4.86,7192,https://www.walmart.com/ip/1000620,Yes,85
+TV1621,Hisense 42 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,578.57,4.82,3475,https://www.walmart.com/ip/1000621,No,42
+TV1622,Panasonic 38 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1056.14,4.28,1557,https://www.walmart.com/ip/1000622,No,38
+TV1623,Samsung 75 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,2431.7,3.67,8658,https://www.walmart.com/ip/1000623,No,75
+TV1624,Sanyo 84 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,848.63,4.55,3359,https://www.walmart.com/ip/1000624,Yes,84
+TV1625,Samsung 43 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,925.99,4.2,3168,https://www.walmart.com/ip/1000625,Yes,43
+TV1626,Sharp 46 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2048.05,4.99,7203,https://www.walmart.com/ip/1000626,No,46
+TV1627,Philips 71 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,1900.08,4.89,768,https://www.walmart.com/ip/1000627,No,71
+TV1628,Samsung 52 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1977.66,4.47,1853,https://www.walmart.com/ip/1000628,Yes,52
+TV1629,TCL 44 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1792.01,3.69,6309,https://www.walmart.com/ip/1000629,Yes,44
+TV1630,Sharp 36 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,1481.1,3.59,7131,https://www.walmart.com/ip/1000630,No,36
+TV1631,LG 61 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1991.25,4.03,2650,https://www.walmart.com/ip/1000631,No,61
+TV1632,Hisense 33 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,199.15,4.64,4362,https://www.walmart.com/ip/1000632,No,33
+TV1633,Panasonic 85 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,799.12,4.53,9704,https://www.walmart.com/ip/1000633,No,85
+TV1634,LG 64 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,998.86,4.31,9843,https://www.walmart.com/ip/1000634,No,64
+TV1635,Vizio 69 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1436.75,4.65,8566,https://www.walmart.com/ip/1000635,No,69
+TV1636,Philips 67 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,2076.46,4.44,4860,https://www.walmart.com/ip/1000636,Yes,67
+TV1637,Samsung 50 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2309.31,4.46,6485,https://www.walmart.com/ip/1000637,No,50
+TV1638,LG 60 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,703.15,4.36,3624,https://www.walmart.com/ip/1000638,No,60
+TV1639,Sharp 81 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,2320.68,4.31,8617,https://www.walmart.com/ip/1000639,Yes,81
+TV1640,TCL 56 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1919.94,4.41,4317,https://www.walmart.com/ip/1000640,Yes,56
+TV1641,Hisense 72 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1678.65,3.9,6258,https://www.walmart.com/ip/1000641,Yes,72
+TV1642,Samsung 37 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2308.71,4.28,1669,https://www.walmart.com/ip/1000642,Yes,37
+TV1643,Samsung 63 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,612.84,3.63,1819,https://www.walmart.com/ip/1000643,No,63
+TV1644,Vizio 52 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1810.54,4.14,5472,https://www.walmart.com/ip/1000644,No,52
+TV1645,Vizio 64 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,401.15,4.59,4417,https://www.walmart.com/ip/1000645,No,64
+TV1646,Samsung 35 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1926.5,4.18,8602,https://www.walmart.com/ip/1000646,No,35
+TV1647,Panasonic 75 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1928.07,4.56,2781,https://www.walmart.com/ip/1000647,No,75
+TV1648,Sanyo 46 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,2381.31,3.6,6293,https://www.walmart.com/ip/1000648,No,46
+TV1649,Samsung 42 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,929.37,4.43,8266,https://www.walmart.com/ip/1000649,No,42
+TV1650,Panasonic 50 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1421.67,3.96,5064,https://www.walmart.com/ip/1000650,Yes,50
+TV1651,LG 71 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1615.95,4.13,442,https://www.walmart.com/ip/1000651,Yes,71
+TV1652,Sharp 72 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1353.57,3.84,9440,https://www.walmart.com/ip/1000652,Yes,72
+TV1653,LG 64 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,594.02,4.2,2198,https://www.walmart.com/ip/1000653,No,64
+TV1654,TCL 32 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,1807.72,4.19,6250,https://www.walmart.com/ip/1000654,No,32
+TV1655,Sanyo 56 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,1356.46,3.83,6580,https://www.walmart.com/ip/1000655,No,56
+TV1656,Samsung 43 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,184.34,4.68,911,https://www.walmart.com/ip/1000656,Yes,43
+TV1657,LG 38 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1018.11,4.29,7754,https://www.walmart.com/ip/1000657,Yes,38
+TV1658,Sharp 62 Inch OLED TV,Sharp,Electronics > TV & Video > Smart TVs,534.4,3.7,2482,https://www.walmart.com/ip/1000658,No,62
+TV1659,TCL 80 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,990.15,4.45,94,https://www.walmart.com/ip/1000659,No,80
+TV1660,Panasonic 36 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1931.59,4.5,2302,https://www.walmart.com/ip/1000660,No,36
+TV1661,TCL 55 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,2353.17,4.24,5849,https://www.walmart.com/ip/1000661,Yes,55
+TV1662,Hisense 66 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,2484.17,4.17,4317,https://www.walmart.com/ip/1000662,No,66
+TV1663,LG 35 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,2068.97,4.93,5373,https://www.walmart.com/ip/1000663,No,35
+TV1664,Panasonic 74 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,2347.04,3.92,7624,https://www.walmart.com/ip/1000664,Yes,74
+TV1665,LG 56 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,396.08,4.82,5825,https://www.walmart.com/ip/1000665,Yes,56
+TV1666,Sony 83 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,2486.35,4.32,9943,https://www.walmart.com/ip/1000666,Yes,83
+TV1667,Panasonic 65 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,940.94,3.55,5517,https://www.walmart.com/ip/1000667,No,65
+TV1668,Philips 82 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1349.85,4.23,2910,https://www.walmart.com/ip/1000668,Yes,82
+TV1669,Sony 69 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,419.02,4.14,6230,https://www.walmart.com/ip/1000669,No,69
+TV1670,Sony 79 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,2022.87,4.67,2749,https://www.walmart.com/ip/1000670,No,79
+TV1671,Sanyo 63 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2475.98,4.87,7796,https://www.walmart.com/ip/1000671,Yes,63
+TV1672,Sharp 76 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,2155.29,4.42,7125,https://www.walmart.com/ip/1000672,Yes,76
+TV1673,Philips 58 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1467.51,4.77,6943,https://www.walmart.com/ip/1000673,No,58
+TV1674,Sanyo 42 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,2352.63,4.4,5568,https://www.walmart.com/ip/1000674,Yes,42
+TV1675,Sony 56 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,292.66,4.03,6033,https://www.walmart.com/ip/1000675,No,56
+TV1676,TCL 33 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,988.36,3.93,6903,https://www.walmart.com/ip/1000676,No,33
+TV1677,Samsung 67 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1950.3,3.81,9118,https://www.walmart.com/ip/1000677,Yes,67
+TV1678,TCL 68 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,1637.44,3.62,5614,https://www.walmart.com/ip/1000678,Yes,68
+TV1679,Vizio 67 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,585.51,4.96,4437,https://www.walmart.com/ip/1000679,No,67
+TV1680,Vizio 83 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2229.48,4.68,3259,https://www.walmart.com/ip/1000680,No,83
+TV1681,Philips 48 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,1358.42,3.6,7496,https://www.walmart.com/ip/1000681,No,48
+TV1682,Hisense 56 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,746.62,4.14,8220,https://www.walmart.com/ip/1000682,Yes,56
+TV1683,Sharp 47 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,1784.64,4.54,7963,https://www.walmart.com/ip/1000683,No,47
+TV1684,LG 82 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,624.48,3.82,6579,https://www.walmart.com/ip/1000684,Yes,82
+TV1685,Panasonic 69 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,2416.02,4.02,7981,https://www.walmart.com/ip/1000685,No,69
+TV1686,Sanyo 83 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1291.36,4.35,4582,https://www.walmart.com/ip/1000686,No,83
+TV1687,Sharp 36 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,789.54,4.65,5715,https://www.walmart.com/ip/1000687,No,36
+TV1688,Sony 73 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,458.55,4.85,1591,https://www.walmart.com/ip/1000688,Yes,73
+TV1689,LG 64 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1220.5,4.27,2912,https://www.walmart.com/ip/1000689,No,64
+TV1690,Panasonic 84 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,2039.56,4.6,9660,https://www.walmart.com/ip/1000690,No,84
+TV1691,Hisense 69 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1653.84,4.79,2902,https://www.walmart.com/ip/1000691,Yes,69
+TV1692,Philips 34 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,2081.13,3.86,4763,https://www.walmart.com/ip/1000692,Yes,34
+TV1693,TCL 82 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1599.56,4.32,414,https://www.walmart.com/ip/1000693,Yes,82
+TV1694,TCL 71 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,836.75,3.77,7207,https://www.walmart.com/ip/1000694,Yes,71
+TV1695,Sanyo 50 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,469.56,3.63,835,https://www.walmart.com/ip/1000695,Yes,50
+TV1696,TCL 56 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1814.52,3.84,3695,https://www.walmart.com/ip/1000696,No,56
+TV1697,Samsung 42 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,925.97,4.35,3607,https://www.walmart.com/ip/1000697,Yes,42
+TV1698,Sharp 46 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,2496.19,4.81,5961,https://www.walmart.com/ip/1000698,No,46
+TV1699,Samsung 46 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,797.13,3.55,2103,https://www.walmart.com/ip/1000699,No,46
+TV1700,Vizio 36 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,349.16,4.74,3983,https://www.walmart.com/ip/1000700,No,36
+TV1701,Samsung 55 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,1427.71,4.83,4747,https://www.walmart.com/ip/1000701,No,55
+TV1702,LG 56 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,256.71,4.5,8589,https://www.walmart.com/ip/1000702,No,56
+TV1703,Hisense 55 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,718.26,3.8,2064,https://www.walmart.com/ip/1000703,Yes,55
+TV1704,Vizio 46 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,211.68,4.71,3566,https://www.walmart.com/ip/1000704,Yes,46
+TV1705,LG 45 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1580.74,4.44,8681,https://www.walmart.com/ip/1000705,No,45
+TV1706,Hisense 63 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1600.34,3.81,9984,https://www.walmart.com/ip/1000706,Yes,63
+TV1707,Panasonic 75 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2118.17,4.03,3793,https://www.walmart.com/ip/1000707,No,75
+TV1708,LG 67 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,1277.9,4.51,3368,https://www.walmart.com/ip/1000708,No,67
+TV1709,Hisense 59 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,1156.45,4.79,8818,https://www.walmart.com/ip/1000709,No,59
+TV1710,Sharp 56 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1414.28,4.6,7497,https://www.walmart.com/ip/1000710,No,56
+TV1711,LG 74 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,720.61,4.68,2059,https://www.walmart.com/ip/1000711,No,74
+TV1712,Samsung 33 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,576.63,4.63,6257,https://www.walmart.com/ip/1000712,Yes,33
+TV1713,Hisense 35 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,1306.39,3.76,4190,https://www.walmart.com/ip/1000713,No,35
+TV1714,Philips 40 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1086.5,4.91,8765,https://www.walmart.com/ip/1000714,No,40
+TV1715,LG 66 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,1154.71,3.89,9195,https://www.walmart.com/ip/1000715,Yes,66
+TV1716,Vizio 46 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2420.36,4.91,1879,https://www.walmart.com/ip/1000716,No,46
+TV1717,Philips 76 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,217.59,4.99,8149,https://www.walmart.com/ip/1000717,No,76
+TV1718,Samsung 68 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1925.97,3.51,2036,https://www.walmart.com/ip/1000718,No,68
+TV1719,Hisense 58 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,2062.74,3.53,4704,https://www.walmart.com/ip/1000719,No,58
+TV1720,Panasonic 36 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2150.15,3.83,562,https://www.walmart.com/ip/1000720,Yes,36
+TV1721,Sanyo 56 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1490.47,3.97,9816,https://www.walmart.com/ip/1000721,Yes,56
+TV1722,Sanyo 49 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,601.82,4.73,9226,https://www.walmart.com/ip/1000722,No,49
+TV1723,Hisense 46 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,587.98,4.33,4858,https://www.walmart.com/ip/1000723,No,46
+TV1724,Sharp 52 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1304.17,4.12,9292,https://www.walmart.com/ip/1000724,No,52
+TV1725,Hisense 42 Inch Android TV,Hisense,Electronics > TV & Video > Smart TVs,398.05,4.29,6725,https://www.walmart.com/ip/1000725,Yes,42
+TV1726,Philips 51 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,811.33,4.56,9261,https://www.walmart.com/ip/1000726,No,51
+TV1727,Sharp 35 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,674.95,3.89,7501,https://www.walmart.com/ip/1000727,No,35
+TV1728,Panasonic 84 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1778.68,4.19,4375,https://www.walmart.com/ip/1000728,No,84
+TV1729,Samsung 38 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1558.65,4.68,5567,https://www.walmart.com/ip/1000729,No,38
+TV1730,LG 45 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,1252.13,4.21,4102,https://www.walmart.com/ip/1000730,No,45
+TV1731,Vizio 76 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,1767.18,4.54,7468,https://www.walmart.com/ip/1000731,No,76
+TV1732,Sanyo 84 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,310.78,4.43,5090,https://www.walmart.com/ip/1000732,Yes,84
+TV1733,LG 63 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1744.38,4.87,7504,https://www.walmart.com/ip/1000733,Yes,63
+TV1734,Hisense 71 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1448.34,3.97,7165,https://www.walmart.com/ip/1000734,Yes,71
+TV1735,Sanyo 61 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,2350.36,3.86,458,https://www.walmart.com/ip/1000735,Yes,61
+TV1736,Sanyo 53 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,2135.05,3.53,2046,https://www.walmart.com/ip/1000736,No,53
+TV1737,Samsung 58 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1720.87,4.53,4174,https://www.walmart.com/ip/1000737,No,58
+TV1738,Sanyo 37 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,1219.56,3.53,2731,https://www.walmart.com/ip/1000738,Yes,37
+TV1739,Sharp 68 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,355.21,3.89,8567,https://www.walmart.com/ip/1000739,Yes,68
+TV1740,Sony 80 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,323.41,4,4772,https://www.walmart.com/ip/1000740,Yes,80
+TV1741,Vizio 68 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,186.69,4.76,5257,https://www.walmart.com/ip/1000741,No,68
+TV1742,Hisense 74 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1238.39,4.29,345,https://www.walmart.com/ip/1000742,Yes,74
+TV1743,TCL 69 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1507.3,3.55,8514,https://www.walmart.com/ip/1000743,No,69
+TV1744,Hisense 84 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,402.53,4.05,8854,https://www.walmart.com/ip/1000744,No,84
+TV1745,Philips 73 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,2481.24,4.37,1641,https://www.walmart.com/ip/1000745,Yes,73
+TV1746,Sanyo 50 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,1374.98,3.62,6208,https://www.walmart.com/ip/1000746,No,50
+TV1747,Philips 82 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,484.96,3.75,5699,https://www.walmart.com/ip/1000747,Yes,82
+TV1748,Panasonic 58 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,475.13,4,9211,https://www.walmart.com/ip/1000748,No,58
+TV1749,Hisense 48 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,954.46,4.07,4879,https://www.walmart.com/ip/1000749,Yes,48
+TV1750,Sharp 77 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1068.51,3.78,6262,https://www.walmart.com/ip/1000750,Yes,77
+TV1751,TCL 80 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,454.14,4.7,5577,https://www.walmart.com/ip/1000751,No,80
+TV1752,Samsung 63 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,185.85,3.64,6146,https://www.walmart.com/ip/1000752,No,63
+TV1753,TCL 52 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1504.19,4.48,5070,https://www.walmart.com/ip/1000753,Yes,52
+TV1754,LG 48 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1235.32,4.16,5424,https://www.walmart.com/ip/1000754,Yes,48
+TV1755,LG 42 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,2115.33,3.57,758,https://www.walmart.com/ip/1000755,No,42
+TV1756,Philips 56 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1154.17,3.57,970,https://www.walmart.com/ip/1000756,Yes,56
+TV1757,Sony 32 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,1050.5,4.36,8205,https://www.walmart.com/ip/1000757,Yes,32
+TV1758,Vizio 44 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,840.64,4.79,7418,https://www.walmart.com/ip/1000758,Yes,44
+TV1759,Vizio 71 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1922.03,3.99,7025,https://www.walmart.com/ip/1000759,No,71
+TV1760,Philips 65 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1825.99,3.89,2856,https://www.walmart.com/ip/1000760,Yes,65
+TV1761,Sharp 37 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,1165.09,4.18,4659,https://www.walmart.com/ip/1000761,Yes,37
+TV1762,Vizio 44 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,310.79,4.82,2046,https://www.walmart.com/ip/1000762,No,44
+TV1763,Hisense 70 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,970.92,4.64,3228,https://www.walmart.com/ip/1000763,No,70
+TV1764,LG 61 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,1613.16,4.91,6009,https://www.walmart.com/ip/1000764,No,61
+TV1765,Samsung 67 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,403.7,3.95,3168,https://www.walmart.com/ip/1000765,No,67
+TV1766,Vizio 62 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1830.69,4.02,9040,https://www.walmart.com/ip/1000766,No,62
+TV1767,Sharp 60 Inch LED Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2077.59,4.7,6558,https://www.walmart.com/ip/1000767,No,60
+TV1768,Sanyo 36 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2143.47,4.43,9790,https://www.walmart.com/ip/1000768,No,36
+TV1769,Philips 85 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,999.77,4.15,3527,https://www.walmart.com/ip/1000769,No,85
+TV1770,Philips 73 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1689.35,4.77,3763,https://www.walmart.com/ip/1000770,Yes,73
+TV1771,Panasonic 36 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1502.91,3.84,4816,https://www.walmart.com/ip/1000771,No,36
+TV1772,LG 48 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,502.62,4.28,3373,https://www.walmart.com/ip/1000772,Yes,48
+TV1773,Panasonic 53 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,676.03,4.49,8347,https://www.walmart.com/ip/1000773,Yes,53
+TV1774,Sony 57 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,1961.62,4.34,8113,https://www.walmart.com/ip/1000774,Yes,57
+TV1775,Sanyo 68 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1725.82,4.16,6756,https://www.walmart.com/ip/1000775,No,68
+TV1776,Sanyo 62 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2409.02,3.67,524,https://www.walmart.com/ip/1000776,Yes,62
+TV1777,TCL 36 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,1098.55,4.63,7525,https://www.walmart.com/ip/1000777,Yes,36
+TV1778,Sony 79 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,1951.25,3.82,5388,https://www.walmart.com/ip/1000778,No,79
+TV1779,Sanyo 66 Inch OLED TV,Sanyo,Electronics > TV & Video > Smart TVs,2058.46,4.27,8788,https://www.walmart.com/ip/1000779,No,66
+TV1780,Philips 36 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,2318.1,4.46,9572,https://www.walmart.com/ip/1000780,Yes,36
+TV1781,TCL 62 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,430.72,4.43,3663,https://www.walmart.com/ip/1000781,Yes,62
+TV1782,Sharp 58 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,2001.41,4.74,1907,https://www.walmart.com/ip/1000782,No,58
+TV1783,Hisense 59 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,1374.52,3.87,7201,https://www.walmart.com/ip/1000783,Yes,59
+TV1784,Philips 65 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1167.91,3.75,1779,https://www.walmart.com/ip/1000784,Yes,65
+TV1785,Sony 33 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,2442.07,3.61,6656,https://www.walmart.com/ip/1000785,Yes,33
+TV1786,TCL 85 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,758.26,4.21,2156,https://www.walmart.com/ip/1000786,Yes,85
+TV1787,Panasonic 32 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,1534.55,3.61,1443,https://www.walmart.com/ip/1000787,Yes,32
+TV1788,Hisense 81 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,814.51,4.05,7977,https://www.walmart.com/ip/1000788,No,81
+TV1789,Philips 62 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,1384.08,4.68,6230,https://www.walmart.com/ip/1000789,Yes,62
+TV1790,Vizio 85 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,2316.05,3.99,9098,https://www.walmart.com/ip/1000790,No,85
+TV1791,LG 82 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,679.62,4.45,8303,https://www.walmart.com/ip/1000791,Yes,82
+TV1792,Sanyo 60 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,2477.22,3.8,3407,https://www.walmart.com/ip/1000792,No,60
+TV1793,TCL 49 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1399.62,3.9,1546,https://www.walmart.com/ip/1000793,Yes,49
+TV1794,Sanyo 55 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,683.92,4.03,7392,https://www.walmart.com/ip/1000794,Yes,55
+TV1795,Sanyo 55 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,1969.05,3.76,5751,https://www.walmart.com/ip/1000795,No,55
+TV1796,Vizio 75 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1207.28,4.27,5553,https://www.walmart.com/ip/1000796,Yes,75
+TV1797,Sharp 72 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1728.39,4.37,7874,https://www.walmart.com/ip/1000797,Yes,72
+TV1798,Sharp 35 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,943.66,4.42,1967,https://www.walmart.com/ip/1000798,No,35
+TV1799,Vizio 73 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2197.5,4.12,6859,https://www.walmart.com/ip/1000799,Yes,73
+TV1800,Panasonic 46 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1128.23,4.23,1700,https://www.walmart.com/ip/1000800,No,46
+TV1801,Sanyo 36 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,231.79,3.9,8837,https://www.walmart.com/ip/1000801,Yes,36
+TV1802,Philips 48 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,2079.62,3.95,8614,https://www.walmart.com/ip/1000802,Yes,48
+TV1803,Philips 82 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,897.64,4.11,7840,https://www.walmart.com/ip/1000803,Yes,82
+TV1804,Panasonic 64 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,458.18,4.63,8126,https://www.walmart.com/ip/1000804,No,64
+TV1805,Panasonic 81 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1394.43,4.07,6936,https://www.walmart.com/ip/1000805,No,81
+TV1806,Philips 32 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,828.76,3.91,2276,https://www.walmart.com/ip/1000806,Yes,32
+TV1807,Sony 47 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,1915.13,4.61,7241,https://www.walmart.com/ip/1000807,No,47
+TV1808,Hisense 82 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1545.77,4.67,7952,https://www.walmart.com/ip/1000808,Yes,82
+TV1809,Sony 64 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,555.81,4.72,8638,https://www.walmart.com/ip/1000809,No,64
+TV1810,LG 44 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,290.82,4.89,7064,https://www.walmart.com/ip/1000810,No,44
+TV1811,Vizio 47 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2290.02,4.94,9630,https://www.walmart.com/ip/1000811,Yes,47
+TV1812,LG 72 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,1105,4.74,183,https://www.walmart.com/ip/1000812,Yes,72
+TV1813,Philips 84 Inch Roku Smart TV,Philips,Electronics > TV & Video > Smart TVs,929.47,3.65,8047,https://www.walmart.com/ip/1000813,Yes,84
+TV1814,Samsung 70 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,2063.49,4.08,9161,https://www.walmart.com/ip/1000814,Yes,70
+TV1815,LG 50 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,223.01,3.8,6593,https://www.walmart.com/ip/1000815,Yes,50
+TV1816,Samsung 53 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,497.13,4.57,4248,https://www.walmart.com/ip/1000816,No,53
+TV1817,Sony 81 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,262.77,3.8,3397,https://www.walmart.com/ip/1000817,No,81
+TV1818,Hisense 56 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,667.41,3.83,3977,https://www.walmart.com/ip/1000818,Yes,56
+TV1819,Sharp 64 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,593.89,4.89,7554,https://www.walmart.com/ip/1000819,Yes,64
+TV1820,Panasonic 41 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,249.78,4.28,8837,https://www.walmart.com/ip/1000820,No,41
+TV1821,Vizio 53 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1101.61,4.92,2449,https://www.walmart.com/ip/1000821,Yes,53
+TV1822,Samsung 58 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,606.08,3.52,9848,https://www.walmart.com/ip/1000822,Yes,58
+TV1823,LG 79 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,1173.29,3.77,6317,https://www.walmart.com/ip/1000823,Yes,79
+TV1824,Sony 49 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,1869.13,3.99,8545,https://www.walmart.com/ip/1000824,No,49
+TV1825,Samsung 64 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,581.18,3.82,2884,https://www.walmart.com/ip/1000825,No,64
+TV1826,Vizio 59 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,643.22,4.51,3544,https://www.walmart.com/ip/1000826,Yes,59
+TV1827,Sharp 51 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,583.41,4.01,5315,https://www.walmart.com/ip/1000827,No,51
+TV1828,LG 49 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,944.12,4.96,7413,https://www.walmart.com/ip/1000828,Yes,49
+TV1829,Sanyo 69 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1459.4,4.77,8044,https://www.walmart.com/ip/1000829,Yes,69
+TV1830,Vizio 50 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,807.47,4.7,6960,https://www.walmart.com/ip/1000830,No,50
+TV1831,Hisense 76 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,2074.44,3.84,5724,https://www.walmart.com/ip/1000831,Yes,76
+TV1832,Sharp 83 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,493.41,4.92,6764,https://www.walmart.com/ip/1000832,Yes,83
+TV1833,Philips 40 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1746.27,3.58,632,https://www.walmart.com/ip/1000833,Yes,40
+TV1834,LG 80 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,984.11,4.25,753,https://www.walmart.com/ip/1000834,Yes,80
+TV1835,Panasonic 41 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,2249.76,3.96,7199,https://www.walmart.com/ip/1000835,No,41
+TV1836,TCL 81 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,1962.71,3.59,9239,https://www.walmart.com/ip/1000836,No,81
+TV1837,Sharp 77 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2264.06,4.89,1252,https://www.walmart.com/ip/1000837,Yes,77
+TV1838,LG 36 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,2349.69,4.57,1844,https://www.walmart.com/ip/1000838,Yes,36
+TV1839,Samsung 57 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,1642.8,4.78,4963,https://www.walmart.com/ip/1000839,No,57
+TV1840,Vizio 32 Inch OLED TV,Vizio,Electronics > TV & Video > Smart TVs,449.37,4.08,2894,https://www.walmart.com/ip/1000840,Yes,32
+TV1841,Sanyo 66 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,685.73,4.01,8049,https://www.walmart.com/ip/1000841,No,66
+TV1842,Sony 56 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,1889.59,4.53,9269,https://www.walmart.com/ip/1000842,Yes,56
+TV1843,Panasonic 44 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,865.34,4.83,2495,https://www.walmart.com/ip/1000843,Yes,44
+TV1844,Vizio 52 Inch Roku Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2248.24,3.83,8575,https://www.walmart.com/ip/1000844,Yes,52
+TV1845,Sanyo 60 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,1120.23,3.72,2009,https://www.walmart.com/ip/1000845,Yes,60
+TV1846,Sony 42 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,2427.92,4.89,5861,https://www.walmart.com/ip/1000846,No,42
+TV1847,Philips 66 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,2436.78,3.76,5545,https://www.walmart.com/ip/1000847,Yes,66
+TV1848,Vizio 73 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,2095.24,4.12,50,https://www.walmart.com/ip/1000848,Yes,73
+TV1849,LG 82 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,2310.05,3.9,2237,https://www.walmart.com/ip/1000849,Yes,82
+TV1850,TCL 68 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,1767.47,4.7,7933,https://www.walmart.com/ip/1000850,No,68
+TV1851,TCL 61 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,881.14,4.32,3035,https://www.walmart.com/ip/1000851,Yes,61
+TV1852,Hisense 58 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,1473.15,4.44,2547,https://www.walmart.com/ip/1000852,Yes,58
+TV1853,Vizio 78 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1168.96,4.64,5912,https://www.walmart.com/ip/1000853,Yes,78
+TV1854,Panasonic 51 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1368.9,3.95,9695,https://www.walmart.com/ip/1000854,Yes,51
+TV1855,Sharp 60 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,929.77,4.79,486,https://www.walmart.com/ip/1000855,No,60
+TV1856,Panasonic 74 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,892.16,4.77,7565,https://www.walmart.com/ip/1000856,No,74
+TV1857,Sharp 83 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,798.7,4.72,5057,https://www.walmart.com/ip/1000857,Yes,83
+TV1858,Hisense 74 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,706.32,4.34,6571,https://www.walmart.com/ip/1000858,No,74
+TV1859,Panasonic 44 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1725.58,4.96,3266,https://www.walmart.com/ip/1000859,No,44
+TV1860,TCL 80 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,1545.68,3.87,7916,https://www.walmart.com/ip/1000860,No,80
+TV1861,Sony 79 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,234.73,4.38,5477,https://www.walmart.com/ip/1000861,Yes,79
+TV1862,Philips 59 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,796.85,3.96,9408,https://www.walmart.com/ip/1000862,No,59
+TV1863,TCL 75 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,862.51,3.91,3936,https://www.walmart.com/ip/1000863,No,75
+TV1864,Sharp 76 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,1769.68,3.66,8326,https://www.walmart.com/ip/1000864,No,76
+TV1865,TCL 73 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,2103.6,4.66,4200,https://www.walmart.com/ip/1000865,No,73
+TV1866,TCL 61 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,618.08,3.73,2240,https://www.walmart.com/ip/1000866,No,61
+TV1867,Vizio 75 Inch UHD TV,Vizio,Electronics > TV & Video > Smart TVs,2019.38,4.84,8794,https://www.walmart.com/ip/1000867,Yes,75
+TV1868,Hisense 66 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1093.08,4.75,35,https://www.walmart.com/ip/1000868,No,66
+TV1869,LG 68 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1017.62,4.84,8939,https://www.walmart.com/ip/1000869,No,68
+TV1870,TCL 60 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1075.62,3.64,4461,https://www.walmart.com/ip/1000870,No,60
+TV1871,Sanyo 49 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1388.74,4.8,5761,https://www.walmart.com/ip/1000871,No,49
+TV1872,Vizio 72 Inch Roku Smart TV,Vizio,Electronics > TV & Video > Smart TVs,594.98,4.56,969,https://www.walmart.com/ip/1000872,Yes,72
+TV1873,Sharp 59 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,1660.91,4.29,4937,https://www.walmart.com/ip/1000873,No,59
+TV1874,Philips 71 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,2130.46,4.15,7375,https://www.walmart.com/ip/1000874,Yes,71
+TV1875,Panasonic 65 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,1100.86,3.61,3306,https://www.walmart.com/ip/1000875,No,65
+TV1876,Panasonic 61 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,709.98,4.19,4869,https://www.walmart.com/ip/1000876,No,61
+TV1877,Sanyo 78 Inch LED Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,1489.79,4.48,4491,https://www.walmart.com/ip/1000877,No,78
+TV1878,LG 57 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,912.12,3.58,4202,https://www.walmart.com/ip/1000878,No,57
+TV1879,TCL 66 Inch HD Ready TV,TCL,Electronics > TV & Video > Smart TVs,838.49,4.12,5311,https://www.walmart.com/ip/1000879,Yes,66
+TV1880,Sanyo 51 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,535.7,4.75,1990,https://www.walmart.com/ip/1000880,Yes,51
+TV1881,Sanyo 58 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2208.64,4.04,6264,https://www.walmart.com/ip/1000881,Yes,58
+TV1882,Philips 84 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,1190.08,3.87,1202,https://www.walmart.com/ip/1000882,Yes,84
+TV1883,Vizio 35 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2298.68,4.37,4667,https://www.walmart.com/ip/1000883,Yes,35
+TV1884,Samsung 33 Inch OLED TV,Samsung,Electronics > TV & Video > Smart TVs,1953.58,4.01,579,https://www.walmart.com/ip/1000884,Yes,33
+TV1885,Sharp 44 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,1775.77,4.47,1140,https://www.walmart.com/ip/1000885,Yes,44
+TV1886,Sharp 61 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,518.48,4.83,5982,https://www.walmart.com/ip/1000886,Yes,61
+TV1887,TCL 43 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,246.48,4.9,5677,https://www.walmart.com/ip/1000887,No,43
+TV1888,TCL 60 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,520.03,3.83,1132,https://www.walmart.com/ip/1000888,No,60
+TV1889,Hisense 71 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,2402.71,4.6,5647,https://www.walmart.com/ip/1000889,Yes,71
+TV1890,TCL 56 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,662.07,4.77,7756,https://www.walmart.com/ip/1000890,Yes,56
+TV1891,Sony 73 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,866.3,4.06,2090,https://www.walmart.com/ip/1000891,Yes,73
+TV1892,Vizio 69 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,484.36,4.56,7737,https://www.walmart.com/ip/1000892,No,69
+TV1893,Samsung 70 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1842.47,4.57,4923,https://www.walmart.com/ip/1000893,No,70
+TV1894,Philips 68 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,1147.55,4.82,3716,https://www.walmart.com/ip/1000894,Yes,68
+TV1895,Panasonic 82 Inch Android TV,Panasonic,Electronics > TV & Video > Smart TVs,1927.11,4.22,5217,https://www.walmart.com/ip/1000895,Yes,82
+TV1896,Vizio 63 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,1526.09,4.89,917,https://www.walmart.com/ip/1000896,No,63
+TV1897,Sanyo 63 Inch 4K Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2046.42,4.75,8226,https://www.walmart.com/ip/1000897,Yes,63
+TV1898,LG 67 Inch 4K Smart TV,LG,Electronics > TV & Video > Smart TVs,2223.7,4.25,5345,https://www.walmart.com/ip/1000898,No,67
+TV1899,Samsung 44 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,797.43,4.74,8134,https://www.walmart.com/ip/1000899,No,44
+TV1900,Sanyo 35 Inch HD Ready TV,Sanyo,Electronics > TV & Video > Smart TVs,622.62,4.78,1818,https://www.walmart.com/ip/1000900,Yes,35
+TV1901,Vizio 74 Inch Roku Smart TV,Vizio,Electronics > TV & Video > Smart TVs,2367.31,4.06,6633,https://www.walmart.com/ip/1000901,Yes,74
+TV1902,Sony 72 Inch Android TV,Sony,Electronics > TV & Video > Smart TVs,212.56,4.12,1961,https://www.walmart.com/ip/1000902,No,72
+TV1903,Sharp 78 Inch HD Ready TV,Sharp,Electronics > TV & Video > Smart TVs,1840.94,4.25,3419,https://www.walmart.com/ip/1000903,Yes,78
+TV1904,Panasonic 49 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1976.12,4.73,7090,https://www.walmart.com/ip/1000904,No,49
+TV1905,TCL 71 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,1625.11,4.64,4333,https://www.walmart.com/ip/1000905,Yes,71
+TV1906,TCL 55 Inch LED Smart TV,TCL,Electronics > TV & Video > Smart TVs,877.29,4.77,1076,https://www.walmart.com/ip/1000906,No,55
+TV1907,Sanyo 41 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,2402.13,4.27,1049,https://www.walmart.com/ip/1000907,No,41
+TV1908,Philips 59 Inch 4K Smart TV,Philips,Electronics > TV & Video > Smart TVs,516.03,4.49,2383,https://www.walmart.com/ip/1000908,No,59
+TV1909,Sharp 77 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,2455.95,4.76,7719,https://www.walmart.com/ip/1000909,No,77
+TV1910,Sharp 66 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,269.06,3.91,6749,https://www.walmart.com/ip/1000910,Yes,66
+TV1911,Panasonic 72 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2297.99,4.73,3211,https://www.walmart.com/ip/1000911,Yes,72
+TV1912,Sony 70 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,874.44,3.54,9624,https://www.walmart.com/ip/1000912,No,70
+TV1913,Philips 61 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1006.44,3.74,7129,https://www.walmart.com/ip/1000913,Yes,61
+TV1914,TCL 43 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,259.73,4.94,637,https://www.walmart.com/ip/1000914,Yes,43
+TV1915,Samsung 53 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,1579.15,4.63,7023,https://www.walmart.com/ip/1000915,Yes,53
+TV1916,Samsung 37 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,835.83,3.85,6058,https://www.walmart.com/ip/1000916,Yes,37
+TV1917,Panasonic 50 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,1027.15,3.69,5606,https://www.walmart.com/ip/1000917,Yes,50
+TV1918,Philips 68 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,524.65,4.2,3832,https://www.walmart.com/ip/1000918,No,68
+TV1919,TCL 55 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,1152.37,4.79,3424,https://www.walmart.com/ip/1000919,No,55
+TV1920,Sony 47 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,2219.6,3.93,4906,https://www.walmart.com/ip/1000920,No,47
+TV1921,Panasonic 34 Inch UHD TV,Panasonic,Electronics > TV & Video > Smart TVs,2420.08,4.89,4831,https://www.walmart.com/ip/1000921,Yes,34
+TV1922,Panasonic 72 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,575.89,4.35,2497,https://www.walmart.com/ip/1000922,No,72
+TV1923,Sony 58 Inch Roku Smart TV,Sony,Electronics > TV & Video > Smart TVs,2350.9,4.99,1549,https://www.walmart.com/ip/1000923,Yes,58
+TV1924,TCL 80 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,771.11,4.86,3892,https://www.walmart.com/ip/1000924,No,80
+TV1925,LG 78 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,372.45,4.24,1508,https://www.walmart.com/ip/1000925,Yes,78
+TV1926,TCL 35 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,323.16,4.36,4005,https://www.walmart.com/ip/1000926,No,35
+TV1927,Samsung 73 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1893.85,4.51,7872,https://www.walmart.com/ip/1000927,Yes,73
+TV1928,Samsung 38 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1987.96,3.62,5654,https://www.walmart.com/ip/1000928,Yes,38
+TV1929,Samsung 55 Inch Roku Smart TV,Samsung,Electronics > TV & Video > Smart TVs,265.84,4.36,3519,https://www.walmart.com/ip/1000929,No,55
+TV1930,Vizio 45 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,2154.4,4.67,593,https://www.walmart.com/ip/1000930,No,45
+TV1931,LG 66 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1252.15,4.99,7333,https://www.walmart.com/ip/1000931,No,66
+TV1932,Samsung 32 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1686.25,4.99,774,https://www.walmart.com/ip/1000932,Yes,32
+TV1933,Sony 35 Inch UHD TV,Sony,Electronics > TV & Video > Smart TVs,567.34,4.66,9440,https://www.walmart.com/ip/1000933,No,35
+TV1934,LG 46 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,293.01,4.07,5535,https://www.walmart.com/ip/1000934,No,46
+TV1935,LG 83 Inch UHD TV,LG,Electronics > TV & Video > Smart TVs,1928.26,3.84,3731,https://www.walmart.com/ip/1000935,Yes,83
+TV1936,Hisense 82 Inch Roku Smart TV,Hisense,Electronics > TV & Video > Smart TVs,2196.48,3.73,9233,https://www.walmart.com/ip/1000936,Yes,82
+TV1937,Philips 32 Inch OLED TV,Philips,Electronics > TV & Video > Smart TVs,746.61,4.46,1875,https://www.walmart.com/ip/1000937,No,32
+TV1938,Samsung 34 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1237.63,4.77,8583,https://www.walmart.com/ip/1000938,No,34
+TV1939,LG 84 Inch OLED TV,LG,Electronics > TV & Video > Smart TVs,1352.32,4.33,1119,https://www.walmart.com/ip/1000939,Yes,84
+TV1940,TCL 61 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,975.35,4.67,3058,https://www.walmart.com/ip/1000940,Yes,61
+TV1941,Philips 63 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,1788.3,4.93,736,https://www.walmart.com/ip/1000941,No,63
+TV1942,Sanyo 32 Inch Android TV,Sanyo,Electronics > TV & Video > Smart TVs,1489.1,4.35,2443,https://www.walmart.com/ip/1000942,No,32
+TV1943,Panasonic 42 Inch OLED TV,Panasonic,Electronics > TV & Video > Smart TVs,2381.21,3.98,2825,https://www.walmart.com/ip/1000943,No,42
+TV1944,Hisense 56 Inch HD Ready TV,Hisense,Electronics > TV & Video > Smart TVs,302.06,3.94,4081,https://www.walmart.com/ip/1000944,Yes,56
+TV1945,Sony 32 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,152.23,3.85,8300,https://www.walmart.com/ip/1000945,Yes,32
+TV1946,Samsung 82 Inch 4K Smart TV,Samsung,Electronics > TV & Video > Smart TVs,989.66,3.77,6585,https://www.walmart.com/ip/1000946,No,82
+TV1947,Sanyo 40 Inch Roku Smart TV,Sanyo,Electronics > TV & Video > Smart TVs,547.17,4.1,7747,https://www.walmart.com/ip/1000947,No,40
+TV1948,TCL 83 Inch Android TV,TCL,Electronics > TV & Video > Smart TVs,888.43,3.91,6717,https://www.walmart.com/ip/1000948,No,83
+TV1949,Panasonic 44 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2146.23,4.93,2383,https://www.walmart.com/ip/1000949,No,44
+TV1950,Panasonic 72 Inch Roku Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,2444.57,3.99,7700,https://www.walmart.com/ip/1000950,No,72
+TV1951,Panasonic 81 Inch LED Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,1953.52,3.69,436,https://www.walmart.com/ip/1000951,Yes,81
+TV1952,Sharp 47 Inch Roku Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2383.71,4.26,5579,https://www.walmart.com/ip/1000952,Yes,47
+TV1953,LG 69 Inch Roku Smart TV,LG,Electronics > TV & Video > Smart TVs,2184.04,4.26,4872,https://www.walmart.com/ip/1000953,No,69
+TV1954,Hisense 67 Inch OLED TV,Hisense,Electronics > TV & Video > Smart TVs,713.9,4.29,41,https://www.walmart.com/ip/1000954,Yes,67
+TV1955,Sony 85 Inch HD Ready TV,Sony,Electronics > TV & Video > Smart TVs,1157.25,4.43,6874,https://www.walmart.com/ip/1000955,No,85
+TV1956,TCL 73 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,2005.06,4.61,4692,https://www.walmart.com/ip/1000956,Yes,73
+TV1957,Vizio 47 Inch LED Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1002.14,4.8,2014,https://www.walmart.com/ip/1000957,Yes,47
+TV1958,Philips 62 Inch LED Smart TV,Philips,Electronics > TV & Video > Smart TVs,357.4,4.44,5812,https://www.walmart.com/ip/1000958,No,62
+TV1959,TCL 40 Inch 4K Smart TV,TCL,Electronics > TV & Video > Smart TVs,2421.02,4.77,1097,https://www.walmart.com/ip/1000959,Yes,40
+TV1960,Sony 82 Inch 4K Smart TV,Sony,Electronics > TV & Video > Smart TVs,2074.7,3.95,9849,https://www.walmart.com/ip/1000960,Yes,82
+TV1961,Sharp 46 Inch UHD TV,Sharp,Electronics > TV & Video > Smart TVs,954.13,4.96,6263,https://www.walmart.com/ip/1000961,Yes,46
+TV1962,Panasonic 50 Inch HD Ready TV,Panasonic,Electronics > TV & Video > Smart TVs,298.72,3.55,5629,https://www.walmart.com/ip/1000962,Yes,50
+TV1963,TCL 59 Inch UHD TV,TCL,Electronics > TV & Video > Smart TVs,1289.74,4.72,7046,https://www.walmart.com/ip/1000963,No,59
+TV1964,Sharp 48 Inch Android TV,Sharp,Electronics > TV & Video > Smart TVs,1795.29,3.73,7446,https://www.walmart.com/ip/1000964,Yes,48
+TV1965,Hisense 61 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1382,4.66,3359,https://www.walmart.com/ip/1000965,Yes,61
+TV1966,LG 49 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,1547.59,3.71,8509,https://www.walmart.com/ip/1000966,Yes,49
+TV1967,Vizio 35 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,534.18,3.52,1758,https://www.walmart.com/ip/1000967,Yes,35
+TV1968,Hisense 53 Inch LED Smart TV,Hisense,Electronics > TV & Video > Smart TVs,2191.26,3.54,5543,https://www.walmart.com/ip/1000968,No,53
+TV1969,Vizio 85 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,156.37,4.94,4984,https://www.walmart.com/ip/1000969,Yes,85
+TV1970,LG 78 Inch LED Smart TV,LG,Electronics > TV & Video > Smart TVs,938.44,3.58,2129,https://www.walmart.com/ip/1000970,Yes,78
+TV1971,Panasonic 60 Inch 4K Smart TV,Panasonic,Electronics > TV & Video > Smart TVs,999.55,3.98,3507,https://www.walmart.com/ip/1000971,Yes,60
+TV1972,Vizio 43 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,806.17,4.74,1807,https://www.walmart.com/ip/1000972,No,43
+TV1973,Philips 71 Inch UHD TV,Philips,Electronics > TV & Video > Smart TVs,1044.78,3.68,8969,https://www.walmart.com/ip/1000973,No,71
+TV1974,Samsung 50 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,2211.18,3.79,2967,https://www.walmart.com/ip/1000974,No,50
+TV1975,Philips 78 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,2375.33,3.82,796,https://www.walmart.com/ip/1000975,Yes,78
+TV1976,Hisense 34 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1908.38,3.94,552,https://www.walmart.com/ip/1000976,No,34
+TV1977,Vizio 54 Inch HD Ready TV,Vizio,Electronics > TV & Video > Smart TVs,1590.08,4.19,9852,https://www.walmart.com/ip/1000977,No,54
+TV1978,Philips 32 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,2170.11,4.74,4908,https://www.walmart.com/ip/1000978,No,32
+TV1979,Samsung 60 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,2482.95,3.81,4911,https://www.walmart.com/ip/1000979,No,60
+TV1980,Sharp 35 Inch 4K Smart TV,Sharp,Electronics > TV & Video > Smart TVs,2080.24,4.33,3064,https://www.walmart.com/ip/1000980,Yes,35
+TV1981,Vizio 48 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,2225.95,4.82,2521,https://www.walmart.com/ip/1000981,No,48
+TV1982,Philips 83 Inch Android TV,Philips,Electronics > TV & Video > Smart TVs,951.72,5,959,https://www.walmart.com/ip/1000982,Yes,83
+TV1983,Samsung 77 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,809.03,3.79,3931,https://www.walmart.com/ip/1000983,No,77
+TV1984,TCL 63 Inch Roku Smart TV,TCL,Electronics > TV & Video > Smart TVs,1370.17,4.15,3367,https://www.walmart.com/ip/1000984,Yes,63
+TV1985,Vizio 58 Inch 4K Smart TV,Vizio,Electronics > TV & Video > Smart TVs,1367.25,4.37,5532,https://www.walmart.com/ip/1000985,No,58
+TV1986,Vizio 84 Inch Android TV,Vizio,Electronics > TV & Video > Smart TVs,968.97,4.82,7839,https://www.walmart.com/ip/1000986,No,84
+TV1987,Samsung 49 Inch HD Ready TV,Samsung,Electronics > TV & Video > Smart TVs,1600.8,4.92,6743,https://www.walmart.com/ip/1000987,Yes,49
+TV1988,Samsung 65 Inch LED Smart TV,Samsung,Electronics > TV & Video > Smart TVs,1178.06,4.79,5730,https://www.walmart.com/ip/1000988,Yes,65
+TV1989,TCL 41 Inch OLED TV,TCL,Electronics > TV & Video > Smart TVs,1252.88,4.8,6898,https://www.walmart.com/ip/1000989,No,41
+TV1990,Samsung 54 Inch UHD TV,Samsung,Electronics > TV & Video > Smart TVs,1653.72,4.33,6971,https://www.walmart.com/ip/1000990,No,54
+TV1991,LG 74 Inch HD Ready TV,LG,Electronics > TV & Video > Smart TVs,1291.78,3.86,6650,https://www.walmart.com/ip/1000991,No,74
+TV1992,Sony 38 Inch LED Smart TV,Sony,Electronics > TV & Video > Smart TVs,1556.77,4.8,8390,https://www.walmart.com/ip/1000992,No,38
+TV1993,Sanyo 64 Inch UHD TV,Sanyo,Electronics > TV & Video > Smart TVs,2366.8,3.6,7686,https://www.walmart.com/ip/1000993,No,64
+TV1994,Sony 84 Inch OLED TV,Sony,Electronics > TV & Video > Smart TVs,411.42,4.14,5650,https://www.walmart.com/ip/1000994,Yes,84
+TV1995,LG 71 Inch Android TV,LG,Electronics > TV & Video > Smart TVs,2313,4.09,3555,https://www.walmart.com/ip/1000995,No,71
+TV1996,Samsung 36 Inch Android TV,Samsung,Electronics > TV & Video > Smart TVs,2126.88,4.92,2349,https://www.walmart.com/ip/1000996,No,36
+TV1997,Hisense 78 Inch UHD TV,Hisense,Electronics > TV & Video > Smart TVs,1478.45,4.23,7992,https://www.walmart.com/ip/1000997,No,78
+TV1998,Philips 57 Inch HD Ready TV,Philips,Electronics > TV & Video > Smart TVs,1712.08,4.09,5072,https://www.walmart.com/ip/1000998,Yes,57
+TV1999,Hisense 37 Inch 4K Smart TV,Hisense,Electronics > TV & Video > Smart TVs,1446.97,4.2,5260,https://www.walmart.com/ip/1000999,No,37
